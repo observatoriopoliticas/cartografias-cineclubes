@@ -1,0 +1,360 @@
+IDEspacio,Nombre del espacio,longitude,latitude,Espacio físico permanente,Tipo de espacio físico,Espacio especializado,Tipo de equipamiento,Archivo fílmico,Videoteca,Tipo de archivo,Redes
+1,Cineclub Torres del Parque ,-99.1178247019177,19.4669556882105,No,Sin información,Sala de cine,Equipamiento adecuado,No,No,Otro,Sí
+2,Cine club El gato azul,-99.1676668358265,19.2658996798668,Sí,Comunitario,Adaptado,Equipamiento adecuado,No,Sí,Mixto,Sí
+3,MICAM,-99.1670039189255,19.2888403870231,No aplica,No aplica,No aplica,Equipamiento profesional,Sí,No,Otro,No
+4,Cine Club Audiencia Soñada,-99.1027622626967,19.3002955323732,Sí,Privado,Sala de proyecciones,Equipamiento adecuado,Sí,Sí,Físico,Sí
+5,Cine Club Villa Panamericana, -99.17102649338436,19.309269865596843,Sí,Comunitario,Adaptado,Equipamiento insuficiente,No,No,Otro,No
+6,Cineclub Cenit , -99.17587773426375,19.413156264877216,No aplica,Prestado,Adaptado,Equipamiento mínimo,No,No,Digital,No
+7,Cine Club Indigente Copal, -99.17348081523556,19.259385663687752,No,Prestado,Adaptado,Equipamiento mínimo,Sí,Sí,Mixto,No
+8,CINE CLUB UNDERCITY, -99.10336505367894,19.447465386085803,Sí,Comunitario,Adaptado,Equipamiento mínimo,No,No,Digital,No
+9,Cine Club Xicalco,-99.16360555941111,19.235378119923098,No,No aplica,Adaptado,Equipamiento mínimo,No,No,Mixto,No
+10,Escuela de Cronistas Carlos Monsiváis , -99.20563266125257,19.473581298978385,No aplica,Comunitario,Adaptado,Equipamiento mínimo,Sí,No,Mixto,Sí
+11,Conjunto Cultural Tepalcatlalpan, -99.12780576125623,19.248005005887613,Sí,Público,Adaptado,Equipamiento mínimo,No,No,Digital,Sí
+12,Cinefilia Amerike , -99.1564570477593,19.37670701031945,Sí,Propio,Sala de proyecciones,Equipamiento adecuado,No,No,Digital,No
+13,Teatro Estefanía Chávez Barragán, -99.18646147227474,19.33324372953457,Sí,Público,Sala de proyecciones,Equipamiento profesional,No,No,Otro,No
+14,Cineclub CT6, -99.16124651707915,19.364478276002163,Sí,Comunitario,Sala de proyecciones,Equipamiento profesional,No,No,Digital,No
+15,Cine ComunitarioCABEZA DE JUÁREZ, -99.04167387843951,19.384110354035336,Sí,Comunitario,Adaptado,Equipamiento insuficiente,No,No,Digital,Sí
+16,Museo Nacional de Culturas Populares, -99.16072801892459,19.350018969370485,Sí,Propio,Adaptado,Equipamiento mínimo,No,No,Otro,No
+17,Los carnales dos, -99.13283830542656,19.545340994062634,Sí,Propio,Adaptado,Equipamiento adecuado,Sí,No,Digital,No
+18,Cine club de la Casa de Cultura Guillermo Bonfil Batalla ,-99.10079319008948,19.35961914804319,Sí,Público,Adaptado,Equipamiento mínimo,Sí,No,Físico,No
+19,Sala Tepecuicatl , -99.1168963170771,19.489425691166527,Sí,Público,Adaptado,Equipamiento adecuado,Sí,No,Digital,No
+20,Muestra de Cortometrajes el Cine desde Diversas Trincheras,-99.15465139008755,19.47856751845487,No,No aplica,Adaptado,Equipamiento mínimo,No,Sí,Digital,No
+21,"Espacio de exhibición Ágora, Galería del Pueblo", -99.13380162082697,19.431966671312516,Sí,Propio,Adaptado,Equipamiento mínimo,No,No,Físico,No
+22,Granada Semillero de Arte,-99.19020550542834,19.439235347512916,Sí,Prestado,Adaptado,Equipamiento insuficiente,No,No,Otro,No
+23,Centro Cultural Xitle ,-99.2115325,19.4969147,Sí,Rentado,Adaptado,Equipamiento mínimo,No,No,Otro,No
+24,Cineclub SAE Institute México, -99.18012840358345,19.41437288253694,Sí,Público,Adaptado,Equipamiento insuficiente,No,Sí,Físico,No
+25,Cineclub Identidad, -99.09323194591607,19.241550790127423,Sí,Privado,Adaptado,Equipamiento adecuado,Sí,No,Físico,Sí
+26,Cinema Volcán, -99.14357885940971,19.323415721879122,Sí,Privado,Sin información,Equipamiento mínimo,No,No,Otro,No
+27,Cine Ágora,-99.13388743241823,19.431997071171853,Sí,Privado,Sala de proyecciones,Equipamiento mínimo,No,No,Físico,No
+28,Instituto del Derecho de Asilo Museo casa de León Trotsky AC, -99.15962151707922,19.357907361042408,Sí,Privado,Adaptado,Equipamiento insuficiente,No,No,Otro,No
+29,Cine Club ComunitarioMadeja de Ideas,-99.11855219009098,19.26332373251993,No aplica,Comunitario,Adaptado,Equipamiento mínimo,No,No,Otro,No
+30,Cinema Axólotl, -99.07845018503639,19.248363467906387,Sí,Público,Adaptado,Equipamiento mínimo,No,No,Digital,No
+31,Universidad del Cine, -99.1928472170796,19.336790554183292,Sí,Rentado,Adaptado,Equipamiento mínimo,Sí,Sí,Digital,Sí
+32,Un paseo por los libros A.C. (espacio de exhibición), -99.13276618232018,19.429342290342664,Sí,Privado,Adaptado,Equipamiento mínimo,No,No,Otro,No
+33,Cinequimera IEMS Preparatoria José Revueltas Sánchez, -99.11743306125334,19.427964194656195,Sí,Público,Adaptado,Equipamiento adecuado,No,No,Físico,No
+34,Cineclub Infonavit Iztacalco  ,-99.10549612570324,19.38327578248092,Sí,Comunitario,Adaptado,Equipamiento mínimo,No,Sí,Digital,Sí
+35,Espacio de exhibición Orizaba 161, -99.15902157100848,19.414855489861093,Sí,Prestado,Adaptado,Equipamiento adecuado,No,No,Otro,No
+36,"Cineclub ""Cinema Verde""",-99.14256936711867,19.36426837880653,No,Público,Adaptado,Equipamiento adecuado,Sí,No,Digital,No
+37,UHLV , -99.16204950865185,19.504533835175675,Sí,Comunitario,Adaptado,Equipamiento insuficiente,No,No,Digital,No
+38,Terminal Coyacán, -99.17278763057426,19.34805657977324,Sí,Privado,Adaptado,Equipamiento adecuado,No,No,Digital,No
+39,Casa Gallina AC. , -99.15996111892308,19.45083034702593,Sí,Privado,Adaptado,Equipamiento adecuado,Sí,No,Físico,No
+40,Cineteca San Lazaro,-99.11777360358317,19.43047343089623,Sí,Público,Sala de proyecciones,Equipamiento adecuado,No,No,Digital,Sí
+41,ZIFF CINECLUB ,-99.15420150358338,19.421827266778003,No,Comunitario,Adaptado,Equipamiento mínimo,No,Sí,Digital,No
+42,CINECLUB CULHUACÁN,-99.1095124643844,"
+19.318648",Sí,Comunitario,Adaptado,Equipamiento adecuado,No,No,Digital,No
+43,Cine Tlacuache, -99.01146480465135,19.254901680268958,Sí,Público,Adaptado,Equipamiento adecuado,No,Sí,Físico,No
+44,Cinito Tlacuache La Villa ,-99.113922,19.4812995,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+45,LA CALACA Espacio Cultural ,-99.18577786309923,19.387988970132533,Sí,Rentado,Adaptado,Equipamiento adecuado,Sí,Sí,Físico,Sí
+46,Cinema Faraíso en Faro Tláhuac,-99.04633563711769,19.28590482219141,Sí,Público,Adaptado,Equipamiento mínimo,No,No,Sin información,Sí
+47,FARO Cosmos,-99.16616227474795,19.44383698886285,Sí,Público,Adaptado,Equipamiento mínimo,No,No,Otro,No
+48,Museo Comunitariode San Miguel Teotongo, -98.98769497474957,19.34388333810214,Sí,Comunitario,Adaptado,Equipamiento mínimo,Sí,No,Digital,No
+49,Cine club Butaca Serdán- Preparatoria Carmen Serdán IEMS, -99.20075054775803,19.453562878023796,Sí,Público,Adaptado,Equipamiento mínimo,Sí,Sí,Físico,Sí
+50,"Cineclub ""Vicente Rojo"" del Centro Cultural de la SHCP",-99.12882225103913,19.434663174234693,Sí,Público,Adaptado,Equipamiento mínimo,No,Sí,Físico,No
+51,Cine Foro UPAVIG, -99.10229161851679,19.30369682357089,Sí,Propio,Sala de proyecciones,Equipamiento profesional,No,Sí,Físico,Sí
+52,La Sabana de filmes,-98.9961505199202,19.3422079800243,Sí,Comunitario,Adaptado,Equipamiento mínimo,Sí,No,Físico,Sí
+53,CineClubA7,-99.1502664413732,19.3509721456412,Sí,Rentado,Adaptado,Equipamiento adecuado,Sí,Sí,Físico,Sí
+54,Centro Cultural del México Contemporáneo, -99.13402882036509,19.43906160614384,Sí,Público,Adaptado,Equipamiento adecuado,No,No,Otro,No
+55,Ícaro Espacio,-99.19841734775994,19.339221074635663,No,Sin información,Adaptado,Equipamiento mínimo,No,No,Digital,No
+56,Salón Rojo Cineclub, -99.13744684734921,19.43750694625864,Sí,Prestado,Adaptado,Equipamiento profesional,Sí,Sí,Físico,Sí
+57,Cineclub LA VENTANA,-99.15116136084264,19.385816672702962,Sí,Privado,Adaptado,Equipamiento mínimo,Sí,No,Digital,Sí
+58,Cine Club Revolución ,-99.15456893057285,19.43637929544602,Sí,Privado,Adaptado,Equipamiento adecuado,No,No,Digital,Sí
+59,Cineclub TAC toma de acción comunitaria, -99.13486815153186,19.487944943444052,Sí,Privado,Adaptado,Equipamiento insuficiente,No,No,Sin información,Sí
+60,"La Grieta Cine (cineclub, laboratorio)", -99.14033798967886,19.37481974947214,Sí,Rentado,Adaptado,Equipamiento adecuado,Sí,No,Físico,No
+61,Espacio de convivencia,-99.15632665940831,19.409941096791034,Sí,Público,Adaptado,Equipamiento mínimo,No,No,Físico,Sí
+62,Cineclub Jarillas,-99.10983840422878,19.39760762571872,Sí,Comunitario,Adaptado,Equipamiento adecuado,No,No,Otro,No
+63,Cineclub Micelio,-99.1844156935196,19.4033687689994,Sí,Prestado,Adaptado,Equipamiento insuficiente,Sí,No,Digital,Sí
+64,Cineclub Audiovideorama Parque Hundido,-99.17809244471539,19.37862610275024,Sí,Público,Adaptado,Equipamiento adecuado,No,No,Sin información,Sí
+65,Complejo cultural Barco Utopía ,-99.05716047618718,19.362562154318802,Sí,Público,Adaptado,Equipamiento profesional,No,No,Digital,No
+66,Cineclub Mora (espacio de exhibición),-99.18510474232468,19.37608181160185,Sí,Público,Adaptado,Equipamiento adecuado,No,No,Sin información,Sí
+67,CERES-CINE CLUB ,-99.10132819999998,19.48731481352005,Sí,Comunitario,Adaptado,Equipamiento insuficiente,Sí,Sí,Físico,Sí
+68,CINE CLUB Cine Vagabundo ,-99.0498364338605,19.310841286364802,Sí,Privado,Adaptado,Equipamiento mínimo,Sí,Sí,Físico,Sí
+69,"Casa de Cultura ""La Villa""",-99.11430729628465,19.482923696761432,Sí,Público,Adaptado,Equipamiento adecuado,Sí,Sí,Digital,Sí
+70,FARO Tecómitl,-98.9952336266707,19.2214694335082,Sí,Propio,Sala de cine,Equipamiento profesional,No,No,Digital,Sí
+71,Centro Cultural La Pirámide ,-99.18989004735053,19.385939254832277,Sí,Público,Adaptado,Equipamiento insuficiente,No,No,No aplica,No
+72,Centro cultural José Martí ,-99.14628968597354,19.437029825175696,Sí,Público,Sala de cine,Equipamiento adecuado,Sí,No,Físico,Sí
+73,FARO de Oriente ,-99.0100822,19.3699235,Sí,Público,Adaptado,Equipamiento mínimo,No,No,Físico,Sí
+74,Centro cultural Xavier Villaurrutia ,-99.16191517433369,19.423882918718174,Sí,Público,Adaptado,Equipamiento mínimo,Sí,No,Físico,Sí
+75,Casa de Cultura El Sifón,-99.1195113091654,19.3718517470801,Sí,Comunitario,Adaptado,Equipamiento insuficiente,Sí,No,Digital,No
+76,Cineclub Luciérnaga,-99.1697469324208,19.268179239174504,No,Comunitario,Sin información,Equipamiento adecuado,Sí,No,Físico,No
+77,Museo del Pulque y las Pulquerías,-99.147062385566,19.4377071221992,Sí,Rentado,Adaptado,Equipamiento mínimo,No,No,Digital,No
+78,Viendo LA VIDA CON ALEGRIA, -99.02076569727227,19.295145059893226,No aplica,No aplica,No aplica,Equipamiento insuficiente,Sí,No,Digital,No
+79,Centro Cultural  y Laboratorio ,-99.19423055978685,19.286824026376667,Sí,Prestado,Adaptado,Equipamiento mínimo,No,No,Digital,No
+80,Cineteca para raros,,,Sí,Rentado,Adaptado,Equipamiento mínimo,Sí,Sí,Digital,No
+81,Ovnibus,-99.15836364920175,19.411822360909554,Sí,Comunitario,Adaptado,Equipamiento insuficiente,Sí,Sí,Otro,No
+82,Cineclub El Umbral ,-99.18955526209598,19.513448929751018,Sí,Privado,Adaptado,Equipamiento mínimo,Sí,Sí,Digital,Sí
+83,Casa de las Artes Cuauhtenco,-99.09012004735564,19.1911281299955,Sí,Comunitario,Adaptado,Equipamiento mínimo,No,No,Otro,Sí
+84,Cineclubes Foro arteria ,-99.042345462697,19.290074944654723,Sí,Privado,Sala de proyecciones,Equipamiento profesional,Sí,Sí,Físico,Sí
+85,Cine Club Casa de las Bombas ,-99.07347654735132,19.35664515344252,Sí,Público,Adaptado,Equipamiento insuficiente,No,No,Físico,No
+86,ENCUENTRO CINECLUB,-98.99683821851593,19.33528882718897,Sí,Comunitario,Adaptado,Equipamiento adecuado,Sí,Sí,Otro,No
+87,Cine club Conagua,-99.18944373385979,19.337474506185753,Sí,Público,Adaptado,Equipamiento adecuado,No,No,Otro,No
+88,CENTRO CULTURAL REAL UNDER / CINEMAUNDER,-99.14809170131998,19.339682180281837,Sí,Rentado,Adaptado,Equipamiento mínimo,Sí,No,Digital,Sí
+89,Cineclub Cosmología México,-99.06952102036387,19.485071511954178,Sí,Prestado,Adaptado,Equipamiento mínimo,No,Sí,Digital,Sí
+90,Casa ciclista Xochimilco ,-99.04774567618992,19.258083151659662,Sí,Privado,Adaptado,Equipamiento insuficiente,No,No,Otro,No
+91,cineclub Infonavit Iztacalco ,-99.10578962298275,19.38622103578644,Sí,Comunitario,Adaptado,Equipamiento mínimo,No,No,Otro,No
+92,Casa de la Primera Imprenta de América ,-99.13082252036519,19.43392747956824,Sí,Público,Sala de proyecciones,Equipamiento adecuado,No,No,Otro,Sí
+93,“KILITA RESISTENCIA” taller/centro cultural ,-99.30755078782754,19.355608010459626,Sí,Privado,Adaptado,Equipamiento insuficiente,No,No,Digital,No
+94,Uotan Studio,-99.17679716269376,19.41409887689078,Sí,Privado,Adaptado,Equipamiento mínimo,No,No,Otro,No
+95,Cineclub Cinema 1917,-99.06405154920347,19.345354466645695,Sí,Privado,Adaptado,Equipamiento mínimo,No,No,Digital,Sí
+96,La pulguita cinéfila (foro cultural),-99.11722218650795,19.48160173193614,Sí,Privado,Adaptado,Equipamiento adecuado,Sí,Sí,Digital,No
+97,FORO ELEFANTE (Espacio de exhibición independiente autogestivo) ,-99.19432632036904,19.286903922849724,Sí,Privado,Adaptado,Equipamiento mínimo,No,No,Digital,Sí
+98,"Centro Universitario Cultural, A. C.",-99.18210231666404,19.335815773800963,Sí,Privado,Adaptado,Equipamiento adecuado,Sí,No,Celuloide,Sí
+99,Cineclub CINEITIZ ,-99.0528847591217,19.373846196709312,Sí,Privado,Adaptado,Equipamiento adecuado,No,No,Otro,No
+100,Comunidad nueva ,-99.14200786084098,19.447529749866618,Sí,Comunitario,Adaptado,Equipamiento insuficiente,No,No,Digital,Sí
+101,CINECLUB Barrio Warrior Colectivo A.C.,-99.13845756084069,19.458029422905877,Sí,Rentado,Sala de proyecciones,Equipamiento mínimo,No,No,Digital,Sí
+102,Alianza francesa - San Ángel,-99.1862279,19.34839,Sí,Sin información,Sala de cine,Equipamiento insuficiente,Sí,Sin información,Digital,Sin información
+103,Cine Club El Carmen en Familia ,-99.1897902690001,19.3453485065636,Sí,No aplica,Auditorio,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+104,Cineclub Comunicación IBERO,-99.2644415769556,19.3711311826042,Sí,No aplica,Sala de cine,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+105,LA ARAÑA,-99.2403137,19.3626389,Sí,Sin información,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+106,Cineclub INEHRM,-99.191101,19.345121,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+107,Foro Cultural Azcapotzalco,-99.1516311,19.4728185,Sí,No aplica,Adaptado,Equipamiento adecuado,Sí,Sin información,Sin información,Sin información
+108,Siervos de la Cultura:Cineclub,-99.2056112,19.4733689,No,Sin información,Sin información,Sin información,Sí,Sin información,Físico,Sin información
+109,Videoteca Manuel Álvarez Bravo ,-99.1852112,19.4839412,Sin información,No aplica,Adaptado,Sin información,No,Sin información,Sin información,Sí
+110,Parque de Bolsillo Nueva Santa María,-99.1696633,19.4608844,Sí,No aplica,Adaptado,Equipamiento insuficiente,Sí,Sin información,Sin información,Sin información
+111,"Festival Internacional de Cine y Comedia, 24Risas por Segundo.",-99.16234053200596,19.411799279898165,No,Prestado,No aplica,No se cuenta con equipamiento,Sí,Sin información,Sin información,Sin información
+112,Semillero de Copil,-99.1342656,19.4013943,Sí,Sin información,Adaptado,Equipamiento insuficiente,No,Sin información,Sin información,Sin información
+113,Ciclos de cine de Chapata Vive Café,-99.1548072232497,19.3968975146655,Sí,Rentado ,Adaptado,Equipamiento insuficiente,Sí,Sin información,Sin información,Sin información
+114,Los Cronopios sin fama,-99.1846849,19.3783738,Sí,Prestado,Adaptado,Equipamiento insuficiente,No,Sin información,Sin información,Sin información
+115,Tiempo de Cine ,-99.1524907,19.3782637,Sí,No aplica,Auditorio,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+116,Cine Móvil ToTo , -99.15964844920283,19.369737083835215,No,No aplica,Adaptado,Equipamiento adecuado,No,Sin información,Sin información,Sin información
+117,Radio Cinema de Radio UNAM,-99.166135404281,19.3983105241605,Sí,No aplica,Sala de cine,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+118,Cineclub Casa Patricio ,-99.1701144,19.39291,Sí,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+119,Sala de cine metro Zapata,-99.1650577,19.3707094,Sí,No aplica,Adaptado,Equipamiento profesional,Sin información,Sin información,Sin información,Sí
+120,Universidad de la Tercera Edad Cumbres ,-99.1469694,19.3860084,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+121,Centro de Educación Continua Adultos Mayores Mixcoac,-99.1885404,19.3762214,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+122,Cinefilias,-99.1653135,19.349377,Sin información,Sin información,Sin información,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+123,Cineclub Cineteca 43,-99.1647339,19.3606529,Sí,No aplica,Adaptado,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+124,Cinito Cinedebate,-99.13462213385742,19.42808159449117,Sí,Prestado,Adaptado,Sin información,Sí,Sí,Sin información,Sin información
+125,Cineclub de la Facultad de Arquitectura,-99.1874831680616,19.3311302397478,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+126,Disidentas,-99.1781203,19.3186969,Sin información,No aplica,Sin información,Sin información,Sí,Sin información,Sin información,Sin información
+127,Centro Cultural Elena Garro,-99.1586304,19.348587,Sí,No aplica,Auditorio,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+128,Sala Luis Buñuel. CCC,-99.1422655,19.3562773,Sí,No aplica,Sala de cine,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+129,Cineclub El Cuarto Amarillo Altillo Universidad,-99.1807662,19.3408218,Sí,No aplica,Adaptado,Equipamiento mínimo,No,Sin información,Sin información,Sin información
+130,Cine club Filosofía y Letras,-99.1965054781978,19.3322191555431,Sí,No aplica,Sala de cine,Equipamiento adecuado,Sí,Sin información,Sin información,Sin información
+131,Dandole vuelo a la hilacha,-99.120959,19.3034547,Sí,No aplica,Auditorio,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+132,Cineclub Sin Límites UAM-X (Comunicación),-99.1023745250061,19.3034916838931,Sí,No aplica,Auditorio,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+133,Cineclub de la División de Ciencias de la Comunicación y Diseño UAM Cuajimalpa,-99.2822939219825,19.352783906492,Sí,No aplica,Adaptado,Equipamiento insuficiente,No,Sin información,Sin información,Sin información
+134,Cine Foro Mayahuel ,-99.281682694349,19.3423022876523,Sí,Sin información,Adaptado,Sin información,No,Sin información,Sin información,Sin información
+135,Tertulias cinematográficas (El 77 Centro Cultural Autogestivo),-99.1541720647033,19.428868639924,Sí,Rentado ,Adaptado,Equipamiento adecuado,No,Sin información,Sin información,Sin información
+136,Museo Casa de la Memoria Indómita,-99.1346883,19.4276917,Sin información,Comodato,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+137,Biblioteca Vasconcelos,-99.1507955,19.447369,Sin información,No aplica,Auditorio,Equipamiento adecuado,Sí,Sin información,Sin información,Sin información
+138,Artesanas Colectiva                     (Punto Gozadera),-99.1438605426153,19.429856198866,Sí,Sin información,Adaptado,Equipamiento insuficiente,No,Sin información,Sin información,Sin información
+139,Centro Cultural de España en México,-99.1330071,19.4352452,Sí,No aplica,Adaptado,Equipamiento insuficiente,Sí,Sin información,Sin información,Sin información
+140,Cine Tonalá,-99.1604878017965,19.4089609499019,Sí,Propio,Adaptado,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+141,Casa Chicha,-99.159064,19.4145754,Sí,Sin información,Adaptado,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+142,Goethe- Institut Mexiko,-99.1632011,19.4197271,Sí,No aplica,Auditorio,Equipamiento profesional,Sí,Sin información,Sin información,Sin información
+143,Cine La Nana,-99.1428912,19.4381352,Sí,Comodato,Adaptado,Equipamiento insuficiente,Sí,Sin información,Sin información,Sin información
+144,Casa Manu Centro Humanista,-99.1359752456869,19.4364538381816,Sí,Sin información,Adaptado,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+145,Casa Refugio Citlatépetl,-99.1716566,19.4092044,Sin información,Sin información,Adaptado,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+146,Cine Lido,-99.1775966910941,19.4073928016893,Sí,Sin información,Sala de cine,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+147,Cineclub Tornasolados: los colores de la diversidad,-99.1641848830986,19.4270128168662,Sí,Sin información,Adaptado,Equipamiento adecuado,Sí,Sin información,Sin información,Sin información
+148,Cine club Casa Barrio Tepito,-99.1232456171112,19.4423635673701,Sí,Recuperado,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+149,Campamentos Unidos (Sede Zarco),-99.1458963,19.4424262,Sí,Sin información,Adaptado,Equipamiento insuficiente,Sí,Sin información,Sin información,Sin información
+150,Campamentos Unidos (Sede Zaragoza),-99.1479996935196,19.4495972405689,Sí,Sin información,Adaptado,Equipamiento insuficiente,Sí,Sin información,Sin información,Sin información
+151,Ciclo de cine en el Museo Indígena del INPI,-99.1313185,19.4519111,Sí,No aplica,Auditorio,Equipamiento insuficiente,Sí,Sin información,Sin información,Sin información
+152,Cine Debate at Poch@ House,-99.1609070106616,19.4121548015831,Sí,Propio,Adaptado,Equipamiento insuficiente,No,Sin información,Sin información,Sin información
+153,Cineclub Casa Negra (antes Cine Oculto),-99.1719798392009,19.4162579818595,No,Sin información,Adaptado,Sin información,No,Sin información,Sin información,Sin información
+154,Rebelar,-99.1633254769482,19.4178099265432,Sí,Recuperado,Adaptado,Equipamiento adecuado,No,Sin información,Sin información,Sin información
+155,Cine Club Condesa (es el mismo que cineclub Casa Negra?),-99.1720656699066,19.4161871511649,Sí,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+156,Cinema Queer México,-99.13598468095233,19.43629338524972,Sí,Sin información,Sin información,Sin información,No,Sin información,Sin información,Sin información
+157,Ciclo de Cine- Debate. El Colegio Nacional,-99.1320170916921,19.4358332520533,Sí,No aplica,Adaptado,Equipamiento mínimo,No,Sin información,Sin información,Sin información
+158,Estudiantes de Psicología (Universidad de Londres),-99.1597710981376,19.4162247653095,Sí,No aplica,Sala de cine,Equipamiento mínimo,Sin información,Sin información,Sin información,Sin información
+159,CineClub Munal,-99.1393557931722,19.4362187369008,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+160,Necios Bar ,-99.1770320272559,19.4116437152205,Sí,Sin información,Adaptado,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+161,Círculo Psicoanalítico Mexicano ,-99.1746237,19.4118433,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+162,Claustro de Sor Juana,-99.1364598864893,19.4263996605873,Sin información,Sin información,Sin información,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+163,Colectivo Cine Social (En el Museo Memoria y Tolerancia),-99.1444724959634,19.4341609400882,Sin información,Privado,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+164,Colectivo Productora Calles,-99.23637015582008,19.27405235120737,No,Sin información,Adaptado,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sí
+165,Facultad de Cine,-99.1647726613132,19.4107403198976,Sin información,Privado,Adaptado,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+166,Fundación para Ancianos Concepción Beistegui,-99.1384052,19.4276162,Sí,Sin información,Adaptado,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+167,Cine Club La Galera,-99.1533416248242,19.4200661508265,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+168,Galería José María Velasco,-99.1323941,19.4479999,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+169,kinotecnia Cineclub,-99.1500703358248,19.4384027229305,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+170,La Casa del Cine Mx,-99.1375946,19.4308291,Sin información,Sin información,Sala de cine,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+171,IIPSOCULTA (Casa de los amigos),-99.1545271,19.4381105,Sin información,Comunitario,Adaptado,Equipamiento mínimo,No,Sin información,Sin información,Sin información
+172,Los realizadores,-99.203446978037,19.44078741058734,Sin información,Sin información,Sin información,Sin información,Sí,Sin información,Sin información,Sin información
+173,Cine Club Itinerante JADEvolucion-arte,-99.1550175845889,19.4233159114203,Sí,No aplica,Adaptado,Equipamiento mínimo,Sí,Sin información,Sin información,Sin información
+174,Sin elipsis,-99.15157173385856,19.384346415774143,Sí,No aplica,Sala de cine,Sin información,No,Sin información,Sin información,Sin información
+175,We Are Todos,-99.1639295,19.4181733,Sí,Sin información,Adaptado,Equipamiento mínimo,Sin información,Sin información,Sin información,Sin información
+176,Museo Archivo De la Fotografía,-99.1321411,19.4349858,Sí,No aplica,Adaptado,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+177,Museo Casa de Carranza,-99.163468,19.4311935,Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+178,Museo de la Luz,-99.1300312088793,19.4362729318412,Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+179,Museo de la Mujer,-99.1320953,19.439209,Sin información,Privado,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+180,Museo de las Constituciones,-99.1293281180769,19.4364632869242,Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+181,Museo del Templo Mayor,-99.131881,19.4346038,Sí,No aplica,Auditorio,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+182,Museo Nacional de las Culturas,-99.1303977,19.4332126,Sí,No aplica,Sala de cine,Sin información,Sin información,Sin información,Sin información,Sin información
+183,Cinematógrafo del Museo Universitario del Chopo ,-99.1567171,19.441993,Sí,No aplica,Sala de cine,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+184,Prevenidos Culturales,-99.17733,19.4100606,Sin información,No aplica,Adaptado,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+185,PULQUECINEMA,-99.1641085,19.4192674,Sí,Privado,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+186,ReverdeSer,-99.1620187465087,19.409191339973646,Sin información,Comunitario,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+187,Sprockets Cine Club Infantil ,-99.1605629036428,19.4089483009969,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+188,Sueños libres (Centro Urbano Doctores) ,-99.1448287,19.4229482,Sí,Sin información,Adaptado,Equipamiento insuficiente,No,Sin información,Sin información,Sin información
+189,TODOS SOMOS OTROS FESTIVAL INTERNACIONAL TODOS SOMOS OTROS,-99.16058871851406,19.405430226939952,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+190,Universidad Obrera de México,-99.1279742,19.4361831,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+191,Cinestésica,-99.1471287,19.4339618,Sí,Sin información,Auditorio,Equipamiento insuficiente,Sí,Sin información,Sin información,Sin información
+192,Faro Indios Verdes,-99.1114397,19.5032576,Sí,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+193,Futurama,-99.1333353007336,19.4930705541421,Sí,No aplica,Sala de cine,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+194,Museo de los Ferrocarrileros,-99.1175196328093,19.4817431364866,Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+195,Colectivo Cultural Sendero Cofradía,-99.1522292315713,19.5273862044825,Sin información,Comunitario,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+196,Cinema Vagabunda,-99.0577138527189,19.4481264649606,Sí,Público,Adaptado,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+197,Silvestre Revueltas,-99.095990807033,19.3949008288734,Sí,No aplica,Auditorio,Equipamiento adecuado,No,Sin información,Sin información,Sin información
+198,"Casa de Cultura ""Centro de Artes y Oficios""",-99.1148506,19.3938582,Sí,No aplica,Adaptado,Equipamiento insuficiente,No,Sin información,Sin información,Sin información
+199,Raices Centro Cultural,-99.1383219,19.363354,Sí,Privado,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+200,Casa de Cultura Imaginarte,-99.0313193,19.3375514,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+201,Cine Club CODECO Chavos Banda,-99.0567259143711,19.32381602093,Sí,Sin información,Adaptado,Equipamiento mínimo,Sí,Sin información,Sin información,Sí
+202,UNIVERSIDAD AUTÓNOMA METROPOLITANA UNIDAD IZTAPALAPA,-99.0726300496483,19.3626771089348,Sí,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sí
+203,Parque Tematico Cananea,-99.0675497,19.2920381,Sí,Sin información,Adaptado,Equipamiento mínimo,Sin información,Sin información,Sin información,Sin información
+204,Cinema Atlalilco, -99.08984960502315,19.360499102602486,No,No aplica,Adaptado,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+205,Cineclub en Linea (El Transformador- Centro de Artes y Oficios),-99.04899410131945,19.362231922597463,No,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+206,Cine club Bravo,-99.1390384780367,19.451360062135567,Sin información,Sin información,Sin información,Equipamiento insuficiente,Sí,Sí,Sin información,Sin información
+207,Sala de cine Más Allá (CENTRO DE CULTURA DIGITAL),-99.1759269,19.4228005,Sí,No aplica,Sala de cine,Equipamiento profesional,No,Sin información,Sin información,Sin información
+208,Centro Cultural Brasil en México,-99.1913236,19.4327609,Sí,No aplica,Adaptado,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+209,Cineclub y Charla en Alianza Francesa Polanco,-99.1911961987024,19.4327317936245,Sí,No aplica,Auditorio,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+210,Casa del Lago,-99.1858169,19.4223588,Sí,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+211,Cine Club Mandela,-99.1964293008899,19.4294286889992,Sí,No aplica,Sin información,Equipamiento mínimo,No,Sin información,Sin información,Sin información
+212,Cine club Elena Poniatowska,-99.1812179944452,19.4033969662804,Sí,Sin información,Adaptado,Equipamiento insuficiente,Sí,Sin información,Sin información,Sin información
+213,Cinema Paradiso Univi (Universidad de Vida para Personas Mayores),-99.203895695225,19.4501033349907,Sí,No aplica,Adaptado,Equipamiento mínimo,Sí,Sin información,Sin información,Sin información
+214,Cine Club Rosario Castellanos,-99.1696613002616,19.4488764779393,Sí,No aplica,Adaptado,Equipamiento adecuado,No,Sin información,Sin información,Sin información
+215,Museo Tamayo Arte Contemporáneo ,-99.181716,19.42572,Sí,No aplica,Auditorio,Sin información,Sin información,Sin información,Sin información,Sin información
+216,Los olvidados,-98.9993162505364,19.285102690332845,No,Público,Adaptado,Equipamiento mínimo,No,Sin información,Sin información,Sin información
+217,"Cine Club ""El Águila""",-99.2344318828678,19.3048176750614,Sí,No aplica,Sala de cine,Equipamiento mínimo,No,Sin información,Sin información,Sin información
+218,Cine Comunitario,-99.2411903430619,19.3049281646624,Sí,Público,Adaptado,Equipamiento mínimo,Sí,Sin información,Sin información,Sin información
+219,Cine Club Olla de Piedra,-98.9952482994899,19.2213321752624,Sí,No aplica,Adaptado,Equipamiento profesional,Sí,Sin información,Sin información,Sin información
+220,Cine Club ComunitarioMetzli,-98.9931635180771,19.2184599352247,Sí,Sin información,Adaptado,Equipamiento mínimo,Sí,Sin información,Sin información,Sin información
+221,CineClub ComunitarioRiachuelo Sepentino,-99.0056686,19.2690289,Sí,No aplica,Adaptado,Sin información,No,Sin información,Sin información,Sin información
+222,LA NOPALERA,-99.0545072953326,19.2965134097209,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+223,Museo Regional Tláhuac,-99.0038624824947,19.2685597267041,Sí,No aplica,Adaptado,Equipamiento adecuado,No,Sin información,Sin información,Sí
+224,Cineclub Viaje Submarino (Casa de Cultura Diego Rivera),-99.0603397030294,19.2936800649936,Sí,No aplica,Adaptado,Equipamiento mínimo,No,Sin información,Sin información,Sin información
+225,Casa de Cultura Juan Manuel Martínez,-99.0577530490241,19.2946073317278,Sí,No aplica,Adaptado,Equipamiento mínimo,No,Sin información,Sin información,Sí
+226,Museo Andrés Quintana Roo,-98.9649115,19.2253299,Sí,No aplica,Adaptado,Equipamiento mínimo,No,Sin información,Sin información,Sí
+227,"Cineclub ""Conejo en la Luna"" (Casa de cultura Los Olivos)",-99.058789584536,19.3056703083862,Sí,No aplica,Adaptado,Equipamiento adecuado,No,Sin información,Sin información,Sí
+228,Casa de Cultura Frida Kahlo,-99.0145018306073,19.291157914129,Sí,No aplica,Adaptado,Equipamiento adecuado,No,Sin información,Sin información,Sí
+229,Cine Club Santa (Centro Cultural Santa Catarina),-98.9685973450387,19.3090877203573,Sí,No aplica,Adaptado,Equipamiento adecuado,Sí,Sin información,Sin información,Sin información
+230,Centro Cultural Zapotitlán,-99.0366803247993,19.3005390730201,Sí,No aplica,Adaptado,Equipamiento mínimo,No,Sin información,Sin información,Sí
+231,"Biblioteca ""José Martí""",-98.9966946,19.2695542,Sí,No aplica,Adaptado,Equipamiento mínimo,No,Sin información,Sin información,Sin información
+232,Espacio de Proyección Underground Paradise,-99.0224338113064,19.2991938923603,Sí,Propio,Adaptado,Equipamiento mínimo,No,Sin información,Sin información,Sin información
+233,Ciberescuela San Pedro Mártir,-99.1732310766855,19.2676866310714,Sí,Sin información,Adaptado,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+234,Cine Villa  Olímpica,-99.1880212,19.2980103,Sí,No aplica,Sala de cine,Equipamiento profesional,Sí,Sin información,Mixto,Sí
+235,Centro ComunitarioAhuayoto,-99.2168835,19.2059986,Sí,Sin información,Adaptado,Equipamiento adecuado,No,Sin información,Sin información,Sin información
+236,Fuerza Colectiva Coapa (Unidad Habitacional Coapa),-99.124278,19.290778,Sí,Comunitario,Adaptado,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+237,Casa de la Cultura de la UAEM en Tlalpan,-99.1677896,19.2862316,Sí,No aplica,Sin información,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+238,Cineclub Kin Metztli,-99.14212521851739,19.280035405913694,No,Comunitario,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+239,Cineclub INPRFM (Cineclub Voz Pro Salud Mental),-99.1528106562109,19.2924660631759,Sí,No aplica,Sin información,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+240,Cineclub Psicocinema,-99.1258329,19.4061636,Sí,Sin información,Sala de cine,Equipamiento adecuado,Sí,Sin información,Sin información,Sin información
+241,Colectivo Barrio Conciencia,-99.00807726282275,19.20419969532882,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+242,Sanadoras, -99.13093810634855,19.267057447171982,Sin información,Sin información,Adaptado,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+243,Hacklab Feminista. La Chinampa.,-99.00745,19.2737371,Sí,Privado,Adaptado,Equipamiento insuficiente,Sí,Sin información,Digital,Sin información
+244,Noctambulante,-99.0961530220113,19.2775581547066,Sí,Sin información,Adaptado,Equipamiento mínimo,Sin información,Sin información,Sin información,Sin información
+245,Casa de Cultura Jesus Reyes Heroles,-99.170671,19.3493223,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+246,Biblioteca Agrícola Metropolitana,-99.0512242,19.2909083,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+247,Casa de Cultura El Reloj (Ahora PILARES),-99.1416935,19.3174167,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+248,"Casa de Cultura ""Ricardo Flores Magón""",-99.1025554,19.3229416,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+249,Casa de Cultura Raúl Anguiano ,-99.1501601,19.3229872,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+250,Casa de las Letras ,-99.1371869,19.3335758,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+251,Casa de los Pueblos Originarios DR. Miguel León Portilla,-99.1530214,19.3381567,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+252,Sala Quetzalcóatl (Auditorio),-99.0907815,19.3587543,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+253,Biblioteca Pública Jorge Alberto Menrique,-99.1916238,19.5082611,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+254,Centro de Artes y Oficios del Ajusco Medio ,-99.2228533,19.2755019,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+255,Centro de Artes y Oficios de los Pueblos,-99.1591065575523,19.2343968582729,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+256,Centro de Artes y Oficios Mesa de los Hornos  ,-99.1830568,19.2742034,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+257,Centro ComunitarioLos Volcanes,-99.1764571,19.2692994,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+258,Casa Museo Cineclub Villeda,-99.1393411,19.3831238,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+259,Centro Cultural Carranza,-99.1147438788019,19.4194045692481,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+260,Casa de Cultura Fuego Nuevo ,-99.0939156,19.3589067,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+261,La casa de Cultura del Barrio San Antonio ,-99.0742922,19.3106968,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+262,"Casa de Las Mujeres ""Ifigenia Martínez"" ",-99.1698219,19.3145457,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+263,Cineforum ComunitarioItinerante,-99.0663966,19.2955479,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+264,Organización de Vecinos Popotla (ORVE- Popotla),-99.1776715744809,19.4536452179823,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+265,Colectivo Cultural Semilleros,-99.1030546002668,19.4457601112416,Sin información,Sin información,Adaptado,Equipamiento insuficiente,Sí,Sin información,Sin información,Sin información
+266,Casa del Hijo del Ahuizote,-99.1308043,19.4383784,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+267,Universidad Autónoma Metropolitana. Unidad Azcapotzalco,-99.187028,19.503389,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+268,"IEMS GAM 2 ""Salvador Allende""",-99.1046667,19.4838397,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+269,Facultad de Química,-99.1812638,19.3319335,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+270,Colegio de Ciencias y Humanidades Plantel Azcapotzalco UNAM,-99.2045536,19.4998328,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+271,Facultad de Ingeniería,-99.1847318,19.3316664,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+272,Facultad de Música,-99.1539003426154,19.3546480601191,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+273,Cineclub Labradores de Sueños (IEMS),-99.2858835002858,19.3616918073234,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+274,Escuela Itinerante de Cine y Narrativa ,-99.1533121,19.4199979,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+275,Escuela Superior de Ingeniería Mecánica y Eléctrica Unidad Zacatenco IPN,-99.1355838772905,19.4976217917803,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+276,"IEMS Plantel Iztapalapa II ""Benito Juárez""",-99.0651040621768,19.3146871987005,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+277,"IEMS Iztapalapa 3 ""Miravalle""",-98.9985162,19.3336388,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+278,Escuela Nacional de Antropología e Historia,-99.1797378459499,19.3023895106452,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+279,Universidad Pedagógica Nacional,-99.2101265,19.3018015,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+280,"IEMS Xochimilco ""Bernardino Sahagún""",-99.0259055717555,19.2584986244149,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+281,Facultad de Artes y Diseño,-99.118055,19.252085,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+282,El Rule Centro de Saberes,-99.1407065,19.4335607,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+283,Faro Xochicalli Poniente (Faro Azcapotzalco),-99.2001348,19.5069144,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+284,"LUNA 1 ""Tina Modotti""",-99.17720823466,19.3327554045237,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+285,"LUNA 2 ""Tina Modotti""",-99.1495077315457,19.3221787545114,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+286,Centro de Readaptación Social (Sur),-99.127525,19.2346199,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+287,"LUNA 1 ""Juana de Asbaje""",-99.1516772392005,19.4412780038977,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+288,"LUNA 2 ""Juana de Asbaje""",-99.1673115413471,19.4296740283241,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+289,"LUNA 1 ""Alaíde Foppa""",-99.1980483,19.3911882,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+290,"LUNA 2 ""Alaíde Foppa""",-99.2110073205442,19.3744319142602,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+291,"LUNA 1 ""Marcela Lagarde""",-99.1817405,19.4874448,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+292,"LUNA 1 ""Benita Galeana""",-99.146825,19.390868,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+293,"LUNA 2 ""Benita Galeana""",-99.1435938,19.3835803,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+294,"LUNA 1 ""Amparo Ochoa""",-99.3031151272476,19.3483775151596,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+295,"LUNA 2 ""Amparo Ochoa""",-99.294882,19.356444,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+296,"LUNA 1 ""Nahui Ollín""",-99.1170214968689,19.4833109970505,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+297,"LUNA 2 ""Nahui Ollín""",-99.1177145113297,19.463986141017,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+298,"LUNA 1 ""Coatlicue""",-99.1253188290935,19.3903910943476,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+299,"LUNA 2 ""Coatlicue""",-99.0732795428023,19.4000575208711,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+300,"LUNA ""Elena Poniatowska""",-99.0928450070082,19.3520284315357,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+301,"LUNA ""Cristina Pacheco""",-99.2488472938413,19.315441002927,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+302,LUNA 1 Frida Kahlo ,-99.1887691422968,19.405707243666,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+303,LUNA 2 Frida Kahlo ,-99.1993228327698,19.4026572313366,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+304,LUNA 1 Cihual In Calli ,-99.021449,19.19112,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+305,LUNA 2 Cihual In Calli ,-99.0310684,19.1980852,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+306,Cine Club Atlántico,-99.144297,19.433207,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+307,IFAL- Instituto Francés de América Latina,-99.1667241,19.4326443,Sí,No aplica,Sala de cine,Sin información,Sin información,Sin información,Sin información,Sin información
+308,"PILARES ""Belén de las Flores""",-99.2175597680606,19.3970415717805,Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+309,"PILARES ""Jalalpa Tepito""",-99.2373228466012,19.3742147579981,Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+310,"PILARES ""Margarita Maza de Juárez""",-99.1990971,19.4902399,Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+311,"PILARES ""Cantera""",-99.1718502659286,19.3179266043952,Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+312,"PILARES ""Atlampa""",-99.1601083524341,19.460352910288,Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+313,"PILARES ""Tlalpexco""",-99.125747486437,19.54487036261,Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+314,"PILARES ""Agrícola Pantitlán""",-99.0682583,19.4154049,Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+315,"PILARES ""Huayatla""",-99.2484384241872,19.305462236098,Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+316,"PILARES ""Chimalpa""",-99.3177123781789,19.3529835854115,Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+317,"PILARES ""San Simón Tolnáhuac""",-99.1438166956695,19.4614599949292,Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+318,Instituto de la Juventud ,-99.1716735132574,19.4494949235662,Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+319,"CENTRO (Centro de diseño,cine y televisión)",-99.2038637825712,19.4050883302988,Sin información,Privado,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+320,Museo Regional Altepepialcalli,-99.0216529807212,19.1925202277451,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+321,Casa de Cultura Calmecac,-99.0310684,19.1980852,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+322,Cinenauta,-99.1628191276484,19.347974036103,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+323,Museo Casa de la Bola,-99.18844,19.40474,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+324,Seminario 12,-99.1318278647612,19.4340606225255,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+325,Universidad del Distrito Federal Campus Condesa,-99.16888,19.40819,Sin información,Privado,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+326,El Hormiguero,-99.16845,19.36994,Sin información,Privado,Sala de cine,Sin información,Sin información,Sin información,Sin información,Sin información
+327,Cineclub Unidad de Género Comisión de Derechos Humanos de la CDMX,-99.17482,19.35503,Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+328,Semillitas de Colores ( Casa del Éxodo),-99.2454647766499,19.2708418819851,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+329,Soy Audiovisual,-99.1829467132869,19.4908735944254,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+330,Cine Club Indigente Copal,,,Sí,Comunitario,Adaptado,Equipamiento mínimo,No,Sí,Otro,Sí
+331,"Cinemanía, espacio de exhibición", -99.19249849008973,19.33999285020926,Sí,Rentado,Sala de proyecciones,Equipamiento profesional,Sí,No,Físico,No
+332,Cineclub Ellas Dirigen,-99.13125737659341,19.43259684670379,No aplica,No aplica,Adaptado,Equipamiento insuficiente,Sí,No,Digital,Sí
+333,FARO Aragón , -99.0917568170776,19.460954515535974,No aplica,Público,Adaptado,Equipamiento insuficiente,No,No,Otro,Sí
+334,Centro Comunitario, -98.99667551243115,19.34211554392239,Sí,Comunitario,Adaptado,Equipamiento mínimo,Sí,No,Físico,Sí
+335,CineClubA7, -99.15043632036736,19.350786827821665,Sí,Rentado,Adaptado,Equipamiento adecuado,Sí,Sí,Físico,Sí
+336,Cineclub Tóxico, -99.15395473709394,19.395345714964677,No aplica,No aplica,Adaptado,Equipamiento insuficiente,No,No,Digital,No
+337,Tecnológico de Monterrey Campus Santa Fe,-99.25873956084332,19.3594425038494,Sí,Privado,Sala de proyecciones,Equipamiento adecuado,No,Sí,Físico,No
+338,Foro Cultural el Caracol ,-99.14213588967984,19.339024374895175,Sí,Comunitario,Adaptado,Equipamiento insuficiente,No,No,Físico,No
+339,Cinemacatlán,-99.24778772036377,19.487121424164904,Sí,Público,Sala de proyecciones,Equipamiento profesional,Sí,No,Físico,Sí
+340,Libreria Centro Cultural Pájaro de Calor,-99.140901849203,19.363735320729567,Sí,Público,Sala de proyecciones,Equipamiento adecuado,Sí,Sí,Físico,No
+341,CineClub Congreso 20,-99.1674771232308,19.28945203819947,Sí,Público,Adaptado,Equipamiento adecuado,No,No,Digital,No
+342,Centro cultural Foro la Cura,-99.13389664735018,19.399379196134962,Sí,Privado,Adaptado,Equipamiento mínimo,No,No,Otro,No
+343,Argentina 8mm,-99.13189124734927,19.435492083867587,Sí,Privado,Adaptado,Equipamiento mínimo,Sí,No,Físico,No
+344,Cinema 242,-99.0836224473513,19.35758026236331,Sí,Rentado,Adaptado,Equipamiento adecuado,Sí,Sí,Físico,No
+345,Cine Club Santa Rosa,-99.1462746338571,19.4365097301432,Sí,Privado,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+346,Laboratorio por los derechos culturales MH,-99.18890726087318,19.38359835461174,No,No aplica,No aplica,Equipamiento insuficiente,No,No,Sin información,No
+347,Proyecto Narud, -99.18783648970874,19.395181181601764,Sí,Comunitario,No aplica,Equipamiento insuficiente,No,No,Sin información,No
+348,Indomita cine comunitario,-99.0115837838844,19.34705840559643,No aplica,No aplica,Adaptado,Equipamiento mínimo,No,No,Físico,No
+349,CINE CON-SENTIDO,-99.19820257009971,19.45318190267383,Sí,No aplica,Sala de proyecciones,Equipamiento profesional,Sí,Sí,Otro,Sí
+350,Cineclub EIA4,-99.14689566084118,19.43880669272459,Sí,No aplica,Adaptado,Equipamiento mínimo,No,Sí,Digital,No
+351,CineForo Mayahuel,-99.28174464920359,"19.342485723852985, ",No,,Adaptado,Equipamiento adecuado,Sí,Sí,Digital,Sí
+352,Cineclub Cinema Acatlán,-99.24298380687186,19.482400333029858,Sí,No aplica,Sala de proyecciones,Equipamiento profesional,No,No,Otro,Sí
+353,Cineclub Cotidiano Crew,-99.00545090687731,19.274250421711383,No aplica,No aplica,No aplica,Equipamiento insuficiente,No,No,Digital,No
+354,Hierofante Café,-99.13924914549827,19.400703333706744,Sí,Rentado,Adaptado,Equipamiento insuficiente,No,No,Otro,Sí
+355,La Sobremesa Cineclub,-99.1388840185142,19.400650973093136,Sí,Rentado,Adaptado,Equipamiento mínimo,No,No,Digital,Sí
+356,"Nocturama, cineclub de Tristessa",-99.14358650687404,19.399688157750834,Sí,Rentado,Adaptado,Equipamiento mínimo,No,Sí,Físico,Sí
+357,Casona,-99.02317810502764,19.190426835141466,Sí,No aplica,Adaptado,Equipamiento mínimo,No,No,Otro,No
+358,Foro Cultural Calmecac,-99.03120897619145,19.19852509300182,Sí,No aplica,Adaptado,Equipamiento adecuado,No,No,Otro,No
