@@ -1,0 +1,359 @@
+geom,idespacio,nombre_del_espacio,longitude,latitude,espacio_fisico_permanente,tipo_de_espacio_fisico,espacio_especializado,tipo_de_equipamiento,archivo_filmico,videoteca,tipo_de_archivo,redes
+,351,CineForo Mayahuel,"-99,28174465",,No,,Adaptado,Equipamiento adecuado,Sí,Sí,Digital,Sí
+POINT(-99.0224338113064 19.2991938923603),232,Espacio de Proyección Underground Paradise,"-99,02243381","19,29919389",Sí,Propio,Adaptado,Equipamiento mínimo,No,Sin información,Sin información,Sin información
+POINT(-99.133801620827 19.4319666713125),21,"Espacio de exhibición Ágora, Galería del Pueblo","-99,13380162","19,43196667",Sí,Propio,Adaptado,Equipamiento mínimo,No,No,Físico,No
+POINT(-99.1607280189246 19.3500189693705),16,Museo Nacional de Culturas Populares,"-99,16072802","19,35001897",Sí,Propio,Adaptado,Equipamiento mínimo,No,No,Otro,No
+POINT(-99.1564570477593 19.3767070103194),12,Cinefilia Amerike ,"-99,15645705","19,37670701",Sí,Propio,Sala de proyecciones,Equipamiento adecuado,No,No,Digital,No
+POINT(-99.1328383054266 19.5453409940626),17,Los carnales dos,"-99,13283831","19,54534099",Sí,Propio,Adaptado,Equipamiento adecuado,Sí,No,Digital,No
+POINT(-99.1022916185168 19.3036968235709),51,Cine Foro UPAVIG,"-99,10229162","19,30369682",Sí,Propio,Sala de proyecciones,Equipamiento profesional,No,Sí,Físico,Sí
+POINT(-98.9952336266707 19.2214694335082),70,FARO Tecómitl,"-98,99523363","19,22146943",Sí,Propio,Sala de cine,Equipamiento profesional,No,No,Digital,Sí
+POINT(-99.1604878017965 19.4089609499019),140,Cine Tonalá,"-99,1604878","19,40896095",Sí,Propio,Adaptado,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1609070106616 19.4121548015831),152,Cine Debate at Poch@ House,"-99,16090701","19,4121548",Sí,Propio,Adaptado,Equipamiento insuficiente,No,Sin información,Sin información,Sin información
+POINT(-99.16845 19.36994),326,El Hormiguero,"-99,16845","19,36994",Sin información,Privado,Sala de cine,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1320953 19.439209),179,Museo de la Mujer,"-99,1320953","19,439209",Sin información,Privado,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1641085 19.4192674),185,PULQUECINEMA,"-99,1641085","19,4192674",Sí,Privado,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1383219 19.363354),199,Raices Centro Cultural,"-99,1383219","19,363354",Sí,Privado,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.2038637825712 19.4050883302988),319,"CENTRO (Centro de diseño,cine y televisión)","-99,20386378","19,40508833",Sin información,Privado,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1462746338571 19.4365097301432),345,Cine Club Santa Rosa,"-99,14627463","19,43650973",Sí,Privado,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1444724959634 19.4341609400882),163,Colectivo Cine Social (En el Museo Memoria y Tolerancia),"-99,1444725","19,43416094",Sin información,Privado,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.16888 19.40819),325,Universidad del Distrito Federal Campus Condesa,"-99,16888","19,40819",Sin información,Privado,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1511613608426 19.385816672703),57,Cineclub LA VENTANA,"-99,15116136","19,38581667",Sí,Privado,Adaptado,Equipamiento mínimo,Sí,No,Digital,Sí
+POINT(-99.1327661823202 19.4293422903427),32,Un paseo por los libros A.C. (espacio de exhibición),"-99,13276618","19,42934229",Sí,Privado,Adaptado,Equipamiento mínimo,No,No,Otro,No
+POINT(-99.0640515492035 19.3453544666457),95,Cineclub Cinema 1917,"-99,06405155","19,34535447",Sí,Privado,Adaptado,Equipamiento mínimo,No,No,Digital,Sí
+POINT(-99.189555262096 19.513448929751),82,Cineclub El Umbral ,"-99,18955526","19,51344893",Sí,Privado,Adaptado,Equipamiento mínimo,Sí,Sí,Digital,Sí
+POINT(-99.1435788594097 19.3234157218791),26,Cinema Volcán,"-99,14357886","19,32341572",Sí,Privado,Sin información,Equipamiento mínimo,No,No,Otro,No
+POINT(-99.194326320369 19.2869039228497),97,FORO ELEFANTE (Espacio de exhibición independiente autogestivo) ,"-99,19432632","19,28690392",Sí,Privado,Adaptado,Equipamiento mínimo,No,No,Digital,Sí
+POINT(-99.1338966473502 19.399379196135),342,Centro cultural Foro la Cura,"-99,13389665","19,3993792",Sí,Privado,Adaptado,Equipamiento mínimo,No,No,Otro,No
+POINT(-99.1318912473493 19.4354920838676),343,Argentina 8mm,"-99,13189125","19,43549208",Sí,Privado,Adaptado,Equipamiento mínimo,Sí,No,Físico,No
+POINT(-99.1338874324182 19.4319970711719),27,Cine Ágora,"-99,13388743","19,43199707",Sí,Privado,Sala de proyecciones,Equipamiento mínimo,No,No,Físico,No
+POINT(-99.1767971626938 19.4140988768908),94,Uotan Studio,"-99,17679716","19,41409888",Sí,Privado,Adaptado,Equipamiento mínimo,No,No,Otro,No
+POINT(-99.0498364338605 19.3108412863648),68,CINE CLUB Cine Vagabundo ,"-99,04983643","19,31084129",Sí,Privado,Adaptado,Equipamiento mínimo,Sí,Sí,Físico,Sí
+POINT(-99.1727876305743 19.3480565797732),38,Terminal Coyacán,"-99,17278763","19,34805658",Sí,Privado,Adaptado,Equipamiento adecuado,No,No,Digital,No
+POINT(-99.182102316664 19.335815773801),98,"Centro Universitario Cultural, A. C.","-99,18210232","19,33581577",Sí,Privado,Adaptado,Equipamiento adecuado,Sí,No,Celuloide,Sí
+POINT(-99.1599611189231 19.4508303470259),39,Casa Gallina AC. ,"-99,15996112","19,45083035",Sí,Privado,Adaptado,Equipamiento adecuado,Sí,No,Físico,No
+POINT(-99.1027622626967 19.3002955323732),4,Cine Club Audiencia Soñada,"-99,10276226","19,30029553",Sí,Privado,Sala de proyecciones,Equipamiento adecuado,Sí,Sí,Físico,Sí
+POINT(-99.1172221865079 19.4816017319361),96,La pulguita cinéfila (foro cultural),"-99,11722219","19,48160173",Sí,Privado,Adaptado,Equipamiento adecuado,Sí,Sí,Digital,No
+POINT(-99.1545689305729 19.436379295446),58,Cine Club Revolución ,"-99,15456893","19,4363793",Sí,Privado,Adaptado,Equipamiento adecuado,No,No,Digital,Sí
+POINT(-99.0528847591217 19.3738461967093),99,Cineclub CINEITIZ ,"-99,05288476","19,3738462",Sí,Privado,Adaptado,Equipamiento adecuado,No,No,Otro,No
+POINT(-99.2587395608433 19.3594425038494),337,Tecnológico de Monterrey Campus Santa Fe,"-99,25873956","19,3594425",Sí,Privado,Sala de proyecciones,Equipamiento adecuado,No,Sí,Físico,No
+POINT(-99.0932319459161 19.2415507901274),25,Cineclub Identidad,"-99,09323195","19,24155079",Sí,Privado,Adaptado,Equipamiento adecuado,Sí,No,Físico,Sí
+POINT(-99.042345462697 19.2900749446547),84,Cineclubes Foro arteria ,"-99,04234546","19,29007494",Sí,Privado,Sala de proyecciones,Equipamiento profesional,Sí,Sí,Físico,Sí
+POINT(-99.1647726613132 19.4107403198976),165,Facultad de Cine,"-99,16477266","19,41074032",Sin información,Privado,Adaptado,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1348681515319 19.4879449434441),59,Cineclub TAC toma de acción comunitaria,"-99,13486815","19,48794494",Sí,Privado,Adaptado,Equipamiento insuficiente,No,No,Sin información,Sí
+POINT(-99.3075507878275 19.3556080104596),93,“KILITA RESISTENCIA” taller/centro cultural ,"-99,30755079","19,35560801",Sí,Privado,Adaptado,Equipamiento insuficiente,No,No,Digital,No
+POINT(-99.0477456761899 19.2580831516597),90,Casa ciclista Xochimilco ,"-99,04774568","19,25808315",Sí,Privado,Adaptado,Equipamiento insuficiente,No,No,Otro,No
+POINT(-99.1596215170792 19.3579073610424),28,Instituto del Derecho de Asilo Museo casa de León Trotsky AC,"-99,15962152","19,35790736",Sí,Privado,Adaptado,Equipamiento insuficiente,No,No,Otro,No
+POINT(-99.00745 19.2737371),243,Hacklab Feminista. La Chinampa.,"-99,00745","19,2737371",Sí,Privado,Adaptado,Equipamiento insuficiente,Sí,Sin información,Digital,Sin información
+POINT(-99.2115325 19.4969147),23,Centro Cultural Xitle ,"-99,2115325","19,4969147",Sí,Rentado,Adaptado,Equipamiento mínimo,No,No,Otro,No
+POINT(-99.1384575608407 19.4580294229059),101,CINECLUB Barrio Warrior Colectivo A.C.,"-99,13845756","19,45802942",Sí,Rentado,Sala de proyecciones,Equipamiento mínimo,No,No,Digital,Sí
+POINT(-99.1388840185142 19.4006509730931),355,La Sobremesa Cineclub,"-99,13888402","19,40065097",Sí,Rentado,Adaptado,Equipamiento mínimo,No,No,Digital,Sí
+,80,Cineteca para raros,,,Sí,Rentado,Adaptado,Equipamiento mínimo,Sí,Sí,Digital,No
+POINT(-99.1928472170796 19.3367905541833),31,Universidad del Cine,"-99,19284722","19,33679055",Sí,Rentado,Adaptado,Equipamiento mínimo,Sí,Sí,Digital,Sí
+POINT(-99.143586506874 19.3996881577508),356,"Nocturama, cineclub de Tristessa","-99,14358651","19,39968816",Sí,Rentado,Adaptado,Equipamiento mínimo,No,Sí,Físico,Sí
+POINT(-99.147062385566 19.4377071221992),77,Museo del Pulque y las Pulquerías,"-99,14706239","19,43770712",Sí,Rentado,Adaptado,Equipamiento mínimo,No,No,Digital,No
+POINT(-99.14809170132 19.3396821802818),88,CENTRO CULTURAL REAL UNDER / CINEMAUNDER,"-99,1480917","19,33968218",Sí,Rentado,Adaptado,Equipamiento mínimo,Sí,No,Digital,Sí
+POINT(-99.1403379896789 19.3748197494721),60,"La Grieta Cine (cineclub, laboratorio)","-99,14033799","19,37481975",Sí,Rentado,Adaptado,Equipamiento adecuado,Sí,No,Físico,No
+POINT(-99.1504363203674 19.3507868278217),335,CineClubA7,"-99,15043632","19,35078683",Sí,Rentado,Adaptado,Equipamiento adecuado,Sí,Sí,Físico,Sí
+POINT(-99.0836224473513 19.3575802623633),344,Cinema 242,"-99,08362245","19,35758026",Sí,Rentado,Adaptado,Equipamiento adecuado,Sí,Sí,Físico,No
+POINT(-99.1502664413732 19.3509721456412),53,CineClubA7,"-99,15026644","19,35097215",Sí,Rentado,Adaptado,Equipamiento adecuado,Sí,Sí,Físico,Sí
+POINT(-99.1857778630992 19.3879889701325),45,LA CALACA Espacio Cultural ,"-99,18577786","19,38798897",Sí,Rentado,Adaptado,Equipamiento adecuado,Sí,Sí,Físico,Sí
+POINT(-99.1924984900897 19.3399928502093),331,"Cinemanía, espacio de exhibición","-99,19249849","19,33999285",Sí,Rentado,Sala de proyecciones,Equipamiento profesional,Sí,No,Físico,No
+POINT(-99.1392491454983 19.4007033337067),354,Hierofante Café,"-99,13924915","19,40070333",Sí,Rentado,Adaptado,Equipamiento insuficiente,No,No,Otro,Sí
+POINT(-99.1346883 19.4276917),136,Museo Casa de la Memoria Indómita,"-99,1346883","19,4276917",Sin información,Comodato,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1428912 19.4381352),143,Cine La Nana,"-99,1428912","19,4381352",Sí,Comodato,Adaptado,Equipamiento insuficiente,Sí,Sin información,Sin información,Sin información
+POINT(-99.1346221338574 19.4280815944912),124,Cinito Cinedebate,"-99,13462213","19,42808159",Sí,Prestado,Adaptado,Sin información,Sí,Sí,Sin información,Sin información
+POINT(-99.1734808152356 19.2593856636878),7,Cine Club Indigente Copal,"-99,17348082","19,25938566",No,Prestado,Adaptado,Equipamiento mínimo,Sí,Sí,Mixto,No
+POINT(-99.1942305597868 19.2868240263767),79,Centro Cultural  y Laboratorio ,"-99,19423056","19,28682403",Sí,Prestado,Adaptado,Equipamiento mínimo,No,No,Digital,No
+POINT(-99.0695210203639 19.4850715119542),89,Cineclub Cosmología México,"-99,06952102","19,48507151",Sí,Prestado,Adaptado,Equipamiento mínimo,No,Sí,Digital,Sí
+POINT(-99.1758777342638 19.4131562648772),6,Cineclub Cenit ,"-99,17587773","19,41315626",No aplica,Prestado,Adaptado,Equipamiento mínimo,No,No,Digital,No
+POINT(-99.1590215710085 19.4148554898611),35,Espacio de exhibición Orizaba 161,"-99,15902157","19,41485549",Sí,Prestado,Adaptado,Equipamiento adecuado,No,No,Otro,No
+POINT(-99.1374468473492 19.4375069462586),56,Salón Rojo Cineclub,"-99,13744685","19,43750695",Sí,Prestado,Adaptado,Equipamiento profesional,Sí,Sí,Físico,Sí
+POINT(-99.1902055054283 19.4392353475129),22,Granada Semillero de Arte,"-99,19020551","19,43923535",Sí,Prestado,Adaptado,Equipamiento insuficiente,No,No,Otro,No
+POINT(-99.1846849 19.3783738),114,Los Cronopios sin fama,"-99,1846849","19,3783738",Sí,Prestado,Adaptado,Equipamiento insuficiente,No,Sin información,Sin información,Sin información
+POINT(-99.1844156935196 19.4033687689994),63,Cineclub Micelio,"-99,18441569","19,40336877",Sí,Prestado,Adaptado,Equipamiento insuficiente,Sí,No,Digital,Sí
+POINT(-99.162340532006 19.4117992798982),111,"Festival Internacional de Cine y Comedia, 24Risas por Segundo.","-99,16234053","19,41179928",No,Prestado,No aplica,No se cuenta con equipamiento,Sí,Sin información,Sin información,Sin información
+POINT(-99.0100822 19.3699235),73,FARO de Oriente ,"-99,0100822","19,3699235",Sí,Público,Adaptado,Equipamiento mínimo,No,No,Físico,Sí
+POINT(-99.1278057612562 19.2480050058876),11,Conjunto Cultural Tepalcatlalpan,"-99,12780576","19,24800501",Sí,Público,Adaptado,Equipamiento mínimo,No,No,Digital,Sí
+POINT(-99.0784501850364 19.2483634679064),30,Cinema Axólotl,"-99,07845019","19,24836347",Sí,Público,Adaptado,Equipamiento mínimo,No,No,Digital,No
+POINT(-98.9993162505364 19.2851026903328),216,Los olvidados,"-98,99931625","19,28510269",No,Público,Adaptado,Equipamiento mínimo,No,Sin información,Sin información,Sin información
+POINT(-99.200750547758 19.4535628780238),49,Cine club Butaca Serdán- Preparatoria Carmen Serdán IEMS,"-99,20075055","19,45356288",Sí,Público,Adaptado,Equipamiento mínimo,Sí,Sí,Físico,Sí
+POINT(-99.1661622747479 19.4438369888628),47,FARO Cosmos,"-99,16616227","19,44383699",Sí,Público,Adaptado,Equipamiento mínimo,No,No,Otro,No
+POINT(-99.2411903430619 19.3049281646624),218,Cine Comunitario,"-99,24119034","19,30492816",Sí,Público,Adaptado,Equipamiento mínimo,Sí,Sin información,Sin información,Sin información
+POINT(-99.1619151743337 19.4238829187182),74,Centro cultural Xavier Villaurrutia ,"-99,16191517","19,42388292",Sí,Público,Adaptado,Equipamiento mínimo,Sí,No,Físico,Sí
+POINT(-99.1288222510391 19.4346631742347),50,"Cineclub ""Vicente Rojo"" del Centro Cultural de la SHCP","-99,12882225","19,43466317",Sí,Público,Adaptado,Equipamiento mínimo,No,Sí,Físico,No
+POINT(-99.1007931900895 19.3596191480432),18,Cine club de la Casa de Cultura Guillermo Bonfil Batalla ,"-99,10079319","19,35961915",Sí,Público,Adaptado,Equipamiento mínimo,Sí,No,Físico,No
+POINT(-99.0463356371177 19.2859048221914),46,Cinema Faraíso en Faro Tláhuac,"-99,04633564","19,28590482",Sí,Público,Adaptado,Equipamiento mínimo,No,No,Sin información,Sí
+POINT(-99.1563266594083 19.409941096791),61,Espacio de convivencia,"-99,15632666","19,4099411",Sí,Público,Adaptado,Equipamiento mínimo,No,No,Físico,Sí
+POINT(-99.1462896859735 19.4370298251757),72,Centro cultural José Martí ,"-99,14628969","19,43702983",Sí,Público,Sala de cine,Equipamiento adecuado,Sí,No,Físico,Sí
+POINT(-99.1308225203652 19.4339274795682),92,Casa de la Primera Imprenta de América ,"-99,13082252","19,43392748",Sí,Público,Sala de proyecciones,Equipamiento adecuado,No,No,Otro,Sí
+POINT(-99.1177736035832 19.4304734308962),40,Cineteca San Lazaro,"-99,1177736","19,43047343",Sí,Público,Sala de proyecciones,Equipamiento adecuado,No,No,Digital,Sí
+POINT(-99.0114648046514 19.254901680269),43,Cine Tlacuache,"-99,0114648","19,25490168",Sí,Público,Adaptado,Equipamiento adecuado,No,Sí,Físico,No
+POINT(-99.1340288203651 19.4390616061438),54,Centro Cultural del México Contemporáneo,"-99,13402882","19,43906161",Sí,Público,Adaptado,Equipamiento adecuado,No,No,Otro,No
+POINT(-99.1168963170771 19.4894256911665),19,Sala Tepecuicatl ,"-99,11689632","19,48942569",Sí,Público,Adaptado,Equipamiento adecuado,Sí,No,Digital,No
+POINT(-99.1894437338598 19.3374745061858),87,Cine club Conagua,"-99,18944373","19,33747451",Sí,Público,Adaptado,Equipamiento adecuado,No,No,Otro,No
+POINT(-99.140901849203 19.3637353207296),340,Libreria Centro Cultural Pájaro de Calor,"-99,14090185","19,36373532",Sí,Público,Sala de proyecciones,Equipamiento adecuado,Sí,Sí,Físico,No
+POINT(-99.1425693671187 19.3642683788065),36,"Cineclub ""Cinema Verde""","-99,14256937","19,36426838",No,Público,Adaptado,Equipamiento adecuado,Sí,No,Digital,No
+POINT(-99.1174330612533 19.4279641946562),33,Cinequimera IEMS Preparatoria José Revueltas Sánchez,"-99,11743306","19,42796419",Sí,Público,Adaptado,Equipamiento adecuado,No,No,Físico,No
+POINT(-99.1780924447154 19.3786261027502),64,Cineclub Audiovideorama Parque Hundido,"-99,17809244","19,3786261",Sí,Público,Adaptado,Equipamiento adecuado,No,No,Sin información,Sí
+POINT(-99.1851047423247 19.3760818116018),66,Cineclub Mora (espacio de exhibición),"-99,18510474","19,37608181",Sí,Público,Adaptado,Equipamiento adecuado,No,No,Sin información,Sí
+POINT(-99.1143072962847 19.4829236967614),69,"Casa de Cultura ""La Villa""","-99,1143073","19,4829237",Sí,Público,Adaptado,Equipamiento adecuado,Sí,Sí,Digital,Sí
+POINT(-99.1674771232308 19.2894520381995),341,CineClub Congreso 20,"-99,16747712","19,28945204",Sí,Público,Adaptado,Equipamiento adecuado,No,No,Digital,No
+POINT(-99.2477877203638 19.4871214241649),339,Cinemacatlán,"-99,24778772","19,48712142",Sí,Público,Sala de proyecciones,Equipamiento profesional,Sí,No,Físico,Sí
+POINT(-99.0571604761872 19.3625621543188),65,Complejo cultural Barco Utopía ,"-99,05716048","19,36256215",Sí,Público,Adaptado,Equipamiento profesional,No,No,Digital,No
+POINT(-99.1864614722747 19.3332437295346),13,Teatro Estefanía Chávez Barragán,"-99,18646147","19,33324373",Sí,Público,Sala de proyecciones,Equipamiento profesional,No,No,Otro,No
+POINT(-99.0577138527189 19.4481264649606),196,Cinema Vagabunda,"-99,05771385","19,44812646",Sí,Público,Adaptado,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1801284035835 19.4143728825369),24,Cineclub SAE Institute México,"-99,1801284","19,41437288",Sí,Público,Adaptado,Equipamiento insuficiente,No,Sí,Físico,No
+POINT(-99.0734765473513 19.3566451534425),85,Cine Club Casa de las Bombas ,"-99,07347655","19,35664515",Sí,Público,Adaptado,Equipamiento insuficiente,No,No,Físico,No
+POINT(-99.1898900473505 19.3859392548323),71,Centro Cultural La Pirámide ,"-99,18989005","19,38593925",Sí,Público,Adaptado,Equipamiento insuficiente,No,No,No aplica,No
+POINT(-99.0917568170776 19.460954515536),333,FARO Aragón ,"-99,09175682","19,46095452",No aplica,Público,Adaptado,Equipamiento insuficiente,No,No,Otro,Sí
+POINT(-99.1541720647033 19.428868639924),135,Tertulias cinematográficas (El 77 Centro Cultural Autogestivo),"-99,15417206","19,42886864",Sí,Rentado ,Adaptado,Equipamiento adecuado,No,Sin información,Sin información,Sin información
+POINT(-99.1548072232497 19.3968975146655),113,Ciclos de cine de Chapata Vive Café,"-99,15480722","19,39689751",Sí,Rentado ,Adaptado,Equipamiento insuficiente,Sí,Sin información,Sin información,Sin información
+POINT(-99.1355838772905 19.4976217917803),275,Escuela Superior de Ingeniería Mecánica y Eléctrica Unidad Zacatenco IPN,"-99,13558388","19,49762179",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0216529807212 19.1925202277451),320,Museo Regional Altepepialcalli,"-99,02165298","19,19252023",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1885404 19.3762214),121,Centro de Educación Continua Adultos Mayores Mixcoac,"-99,1885404","19,3762214",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.3031151272476 19.3483775151596),294,"LUNA 1 ""Amparo Ochoa""","-99,30311513","19,34837752",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1046667 19.4838397),268,"IEMS GAM 2 ""Salvador Allende""","-99,1046667","19,4838397",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0310684 19.1980852),321,Casa de Cultura Calmecac,"-99,0310684","19,1980852",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.2858835002858 19.3616918073234),273,Cineclub Labradores de Sueños (IEMS),"-99,2858835","19,36169181",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.17720823466 19.3327554045237),284,"LUNA 1 ""Tina Modotti""","-99,17720823","19,3327554",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1539003426154 19.3546480601191),272,Facultad de Música,"-99,15390034","19,35464806",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1114397 19.5032576),192,Faro Indios Verdes,"-99,1114397","19,5032576",Sí,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1495077315457 19.3221787545114),285,"LUNA 2 ""Tina Modotti""","-99,14950773","19,32217875",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1393411 19.3831238),258,Casa Museo Cineclub Villeda,"-99,1393411","19,3831238",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1847318 19.3316664),271,Facultad de Ingeniería,"-99,1847318","19,3316664",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1501601 19.3229872),249,Casa de Cultura Raúl Anguiano ,"-99,1501601","19,3229872",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.2001348 19.5069144),283,Faro Xochicalli Poniente (Faro Azcapotzalco),"-99,2001348","19,5069144",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.2228533 19.2755019),254,Centro de Artes y Oficios del Ajusco Medio ,"-99,2228533","19,2755019",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1698219 19.3145457),262,"Casa de Las Mujeres ""Ifigenia Martínez"" ","-99,1698219","19,3145457",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.021449 19.19112),304,LUNA 1 Cihual In Calli ,"-99,021449","19,19112",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1416935 19.3174167),247,Casa de Cultura El Reloj (Ahora PILARES),"-99,1416935","19,3174167",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0259055717555 19.2584986244149),280,"IEMS Xochimilco ""Bernardino Sahagún""","-99,02590557","19,25849862",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1858169 19.4223588),210,Casa del Lago,"-99,1858169","19,4223588",Sí,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1025554 19.3229416),248,"Casa de Cultura ""Ricardo Flores Magón""","-99,1025554","19,3229416",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1469694 19.3860084),120,Universidad de la Tercera Edad Cumbres ,"-99,1469694","19,3860084",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0489941013195 19.3622319225975),205,Cineclub en Linea (El Transformador- Centro de Artes y Oficios),"-99,0489941","19,36223192",No,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0726300496483 19.3626771089348),202,UNIVERSIDAD AUTÓNOMA METROPOLITANA UNIDAD IZTAPALAPA,"-99,07263005","19,36267711",Sí,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sí
+POINT(-99.1591065575523 19.2343968582729),255,Centro de Artes y Oficios de los Pueblos,"-99,15910656","19,23439686",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.2484384241872 19.305462236098),315,"PILARES ""Huayatla""","-99,24843842","19,30546224",Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1852112 19.4839412),109,Videoteca Manuel Álvarez Bravo ,"-99,1852112","19,4839412",Sin información,No aplica,Adaptado,Sin información,No,Sin información,Sin información,Sí
+POINT(-99.1797378459499 19.3023895106452),278,Escuela Nacional de Antropología e Historia,"-99,17973785","19,30238951",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0732795428023 19.4000575208711),299,"LUNA 2 ""Coatlicue""","-99,07327954","19,40005752",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1887691422968 19.405707243666),302,LUNA 1 Frida Kahlo ,"-99,18876914","19,40570724",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1303977 19.4332126),182,Museo Nacional de las Culturas,"-99,1303977","19,4332126",Sí,No aplica,Sala de cine,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1293281180769 19.4364632869242),180,Museo de las Constituciones,"-99,12932812","19,43646329",Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1716735132574 19.4494949235662),318,Instituto de la Juventud ,"-99,17167351","19,44949492",Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1980483 19.3911882),289,"LUNA 1 ""Alaíde Foppa""","-99,1980483","19,3911882",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0310684 19.1980852),305,LUNA 2 Cihual In Calli ,"-99,0310684","19,1980852",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.3177123781789 19.3529835854115),316,"PILARES ""Chimalpa""","-99,31771238","19,35298359",Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1516772392005 19.4412780038977),287,"LUNA 1 ""Juana de Asbaje""","-99,15167724","19,441278",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1601083524341 19.460352910288),312,"PILARES ""Atlampa""","-99,16010835","19,46035291",Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1874831680616 19.3311302397478),125,Cineclub de la Facultad de Arquitectura,"-99,18748317","19,33113024",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.146825 19.390868),292,"LUNA 1 ""Benita Galeana""","-99,146825","19,390868",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.2101265 19.3018015),279,Universidad Pedagógica Nacional,"-99,2101265","19,3018015",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1718502659286 19.3179266043952),311,"PILARES ""Cantera""","-99,17185027","19,3179266",Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1515717338586 19.3843464157741),174,Sin elipsis,"-99,15157173","19,38434642",Sí,No aplica,Sala de cine,Sin información,No,Sin información,Sin información,Sin información
+POINT(-99.2045536 19.4998328),270,Colegio de Ciencias y Humanidades Plantel Azcapotzalco UNAM,"-99,2045536","19,4998328",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0907815 19.3587543),252,Sala Quetzalcóatl (Auditorio),"-99,0907815","19,3587543",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1438166956695 19.4614599949292),317,"PILARES ""San Simón Tolnáhuac""","-99,1438167","19,46145999",Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1673115413471 19.4296740283241),288,"LUNA 2 ""Juana de Asbaje""","-99,16731154","19,42967403",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.2175597680606 19.3970415717805),308,"PILARES ""Belén de las Flores""","-99,21755977","19,39704157",Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1300312088793 19.4362729318412),178,Museo de la Luz,"-99,13003121","19,43627293",Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.2488472938413 19.315441002927),301,"LUNA ""Cristina Pacheco""","-99,24884729","19,315441",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.2110073205442 19.3744319142602),290,"LUNA 2 ""Alaíde Foppa""","-99,21100732","19,37443191",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1781203 19.3186969),126,Disidentas,"-99,1781203","19,3186969",Sin información,No aplica,Sin información,Sin información,Sí,Sin información,Sin información,Sin información
+POINT(-99.294882 19.356444),295,"LUNA 2 ""Amparo Ochoa""","-99,294882","19,356444",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1407065 19.4335607),282,El Rule Centro de Saberes,"-99,1407065","19,4335607",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.127525 19.2346199),286,Centro de Readaptación Social (Sur),"-99,127525","19,2346199",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1170214968689 19.4833109970505),296,"LUNA 1 ""Nahui Ollín""","-99,1170215","19,483311",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1667241 19.4326443),307,IFAL- Instituto Francés de América Latina,"-99,1667241","19,4326443",Sí,No aplica,Sala de cine,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1993228327698 19.4026572313366),303,LUNA 2 Frida Kahlo ,"-99,19932283","19,40265723",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.17482 19.35503),327,Cineclub Unidad de Género Comisión de Derechos Humanos de la CDMX,"-99,17482","19,35503",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.181716 19.42572),215,Museo Tamayo Arte Contemporáneo ,"-99,181716","19,42572",Sí,No aplica,Auditorio,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0742922 19.3106968),261,La casa de Cultura del Barrio San Antonio ,"-99,0742922","19,3106968",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0651040621768 19.3146871987005),276,"IEMS Plantel Iztapalapa II ""Benito Juárez""","-99,06510406","19,3146872",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0512242 19.2909083),246,Biblioteca Agrícola Metropolitana,"-99,0512242","19,2909083",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1147438788019 19.4194045692481),259,Centro Cultural Carranza,"-99,11474388","19,41940457",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1990971 19.4902399),310,"PILARES ""Margarita Maza de Juárez""","-99,1990971","19,4902399",Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.18844 19.40474),323,Museo Casa de la Bola,"-99,18844","19,40474",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.118055 19.252085),281,Facultad de Artes y Diseño,"-99,118055","19,252085",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0928450070082 19.3520284315357),300,"LUNA ""Elena Poniatowska""","-99,09284501","19,35202843",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.125747486437 19.54487036261),313,"PILARES ""Tlalpexco""","-99,12574749","19,54487036",Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.191101 19.345121),106,Cineclub INEHRM,"-99,191101","19,345121",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.170671 19.3493223),245,Casa de Cultura Jesus Reyes Heroles,"-99,170671","19,3493223",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1435938 19.3835803),293,"LUNA 2 ""Benita Galeana""","-99,1435938","19,3835803",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0056686 19.2690289),221,CineClub ComunitarioRiachuelo Sepentino,"-99,0056686","19,2690289",Sí,No aplica,Adaptado,Sin información,No,Sin información,Sin información,Sin información
+POINT(-99.1177145113297 19.463986141017),297,"LUNA 2 ""Nahui Ollín""","-99,11771451","19,46398614",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.187028 19.503389),267,Universidad Autónoma Metropolitana. Unidad Azcapotzalco,"-99,187028","19,503389",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1253188290935 19.3903910943476),298,"LUNA 1 ""Coatlicue""","-99,12531883","19,39039109",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.2373228466012 19.3742147579981),309,"PILARES ""Jalalpa Tepito""","-99,23732285","19,37421476",Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1916238 19.5082611),253,Biblioteca Pública Jorge Alberto Menrique,"-99,1916238","19,5082611",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1830568 19.2742034),256,Centro de Artes y Oficios Mesa de los Hornos  ,"-99,1830568","19,2742034",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0939156 19.3589067),260,Casa de Cultura Fuego Nuevo ,"-99,0939156","19,3589067",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1175196328093 19.4817431364866),194,Museo de los Ferrocarrileros,"-99,11751963","19,48174314",Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.163468 19.4311935),177,Museo Casa de Carranza,"-99,163468","19,4311935",Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1812638 19.3319335),269,Facultad de Química,"-99,1812638","19,3319335",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0682583 19.4154049),314,"PILARES ""Agrícola Pantitlán""","-99,0682583","19,4154049",Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-98.9985162 19.3336388),277,"IEMS Iztapalapa 3 ""Miravalle""","-98,9985162","19,3336388",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1817405 19.4874448),291,"LUNA 1 ""Marcela Lagarde""","-99,1817405","19,4874448",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1597710981376 19.4162247653095),158,Estudiantes de Psicología (Universidad de Londres),"-99,1597711","19,41622477",Sí,No aplica,Sala de cine,Equipamiento mínimo,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0603397030294 19.2936800649936),224,Cineclub Viaje Submarino (Casa de Cultura Diego Rivera),"-99,0603397","19,29368006",Sí,No aplica,Adaptado,Equipamiento mínimo,No,Sin información,Sin información,Sin información
+POINT(-99.1807662 19.3408218),129,Cineclub El Cuarto Amarillo Altillo Universidad,"-99,1807662","19,3408218",Sí,No aplica,Adaptado,Equipamiento mínimo,No,Sin información,Sin información,Sin información
+POINT(-98.9966946 19.2695542),231,"Biblioteca ""José Martí""","-98,9966946","19,2695542",Sí,No aplica,Adaptado,Equipamiento mínimo,No,Sin información,Sin información,Sin información
+POINT(-99.1320170916921 19.4358332520533),157,Ciclo de Cine- Debate. El Colegio Nacional,"-99,13201709","19,43583325",Sí,No aplica,Adaptado,Equipamiento mínimo,No,Sin información,Sin información,Sin información
+POINT(-99.0231781050276 19.1904268351415),357,Casona,"-99,02317811","19,19042684",Sí,No aplica,Adaptado,Equipamiento mínimo,No,No,Otro,No
+POINT(-99.0577530490241 19.2946073317278),225,Casa de Cultura Juan Manuel Martínez,"-99,05775305","19,29460733",Sí,No aplica,Adaptado,Equipamiento mínimo,No,Sin información,Sin información,Sí
+POINT(-99.0115837838844 19.3470584055964),348,Indomita cine comunitario,"-99,01158378","19,34705841",No aplica,No aplica,Adaptado,Equipamiento mínimo,No,No,Físico,No
+POINT(-99.2344318828678 19.3048176750614),217,"Cine Club ""El Águila""","-99,23443188","19,30481768",Sí,No aplica,Sala de cine,Equipamiento mínimo,No,Sin información,Sin información,Sin información
+POINT(-98.9649115 19.2253299),226,Museo Andrés Quintana Roo,"-98,9649115","19,2253299",Sí,No aplica,Adaptado,Equipamiento mínimo,No,Sin información,Sin información,Sí
+POINT(-99.1546513900876 19.4785675184549),20,Muestra de Cortometrajes el Cine desde Diversas Trincheras,"-99,15465139","19,47856752",No,No aplica,Adaptado,Equipamiento mínimo,No,Sí,Digital,No
+POINT(-99.1550175845889 19.4233159114203),173,Cine Club Itinerante JADEvolucion-arte,"-99,15501758","19,42331591",Sí,No aplica,Adaptado,Equipamiento mínimo,Sí,Sin información,Sin información,Sin información
+POINT(-99.1636055594111 19.2353781199231),9,Cine Club Xicalco,"-99,16360556","19,23537812",No,No aplica,Adaptado,Equipamiento mínimo,No,No,Mixto,No
+POINT(-99.203895695225 19.4501033349907),213,Cinema Paradiso Univi (Universidad de Vida para Personas Mayores),"-99,2038957","19,45010333",Sí,No aplica,Adaptado,Equipamiento mínimo,Sí,Sin información,Sin información,Sin información
+POINT(-99.0366803247993 19.3005390730201),230,Centro Cultural Zapotitlán,"-99,03668032","19,30053907",Sí,No aplica,Adaptado,Equipamiento mínimo,No,Sin información,Sin información,Sí
+POINT(-99.1468956608412 19.4388066927246),350,Cineclub EIA4,"-99,14689566","19,43880669",Sí,No aplica,Adaptado,Equipamiento mínimo,No,Sí,Digital,No
+POINT(-99.1964293008899 19.4294286889992),211,Cine Club Mandela,"-99,1964293","19,42942869",Sí,No aplica,Sin información,Equipamiento mínimo,No,Sin información,Sin información,Sin información
+POINT(-99.0038624824947 19.2685597267041),223,Museo Regional Tláhuac,"-99,00386248","19,26855973",Sí,No aplica,Adaptado,Equipamiento adecuado,No,Sin información,Sin información,Sí
+POINT(-99.1965054781978 19.3322191555431),130,Cine club Filosofía y Letras,"-99,19650548","19,33221916",Sí,No aplica,Sala de cine,Equipamiento adecuado,Sí,Sin información,Sin información,Sin información
+POINT(-98.9685973450387 19.3090877203573),229,Cine Club Santa (Centro Cultural Santa Catarina),"-98,96859735","19,30908772",Sí,No aplica,Adaptado,Equipamiento adecuado,Sí,Sin información,Sin información,Sin información
+POINT(-99.1516311 19.4728185),107,Foro Cultural Azcapotzalco,"-99,1516311","19,4728185",Sí,No aplica,Adaptado,Equipamiento adecuado,Sí,Sin información,Sin información,Sin información
+POINT(-99.17733 19.4100606),184,Prevenidos Culturales,"-99,17733","19,4100606",Sin información,No aplica,Adaptado,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1528106562109 19.2924660631759),239,Cineclub INPRFM (Cineclub Voz Pro Salud Mental),"-99,15281066","19,29246606",Sí,No aplica,Sin información,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1696613002616 19.4488764779393),214,Cine Club Rosario Castellanos,"-99,1696613","19,44887648",Sí,No aplica,Adaptado,Equipamiento adecuado,No,Sin información,Sin información,Sin información
+POINT(-99.095990807033 19.3949008288734),197,Silvestre Revueltas,"-99,09599081","19,39490083",Sí,No aplica,Auditorio,Equipamiento adecuado,No,Sin información,Sin información,Sin información
+POINT(-99.1596484492028 19.3697370838352),116,Cine Móvil ToTo ,"-99,15964845","19,36973708",No,No aplica,Adaptado,Equipamiento adecuado,No,Sin información,Sin información,Sin información
+POINT(-99.131881 19.4346038),181,Museo del Templo Mayor,"-99,131881","19,4346038",Sí,No aplica,Auditorio,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1507955 19.447369),137,Biblioteca Vasconcelos,"-99,1507955","19,447369",Sin información,No aplica,Auditorio,Equipamiento adecuado,Sí,Sin información,Sin información,Sin información
+POINT(-99.0145018306073 19.291157914129),228,Casa de Cultura Frida Kahlo,"-99,01450183","19,29115791",Sí,No aplica,Adaptado,Equipamiento adecuado,No,Sin información,Sin información,Sí
+POINT(-99.1677896 19.2862316),237,Casa de la Cultura de la UAEM en Tlalpan,"-99,1677896","19,2862316",Sí,No aplica,Sin información,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1321411 19.4349858),176,Museo Archivo De la Fotografía,"-99,1321411","19,4349858",Sí,No aplica,Adaptado,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+POINT(-99.058789584536 19.3056703083862),227,"Cineclub ""Conejo en la Luna"" (Casa de cultura Los Olivos)","-99,05878958","19,30567031",Sí,No aplica,Adaptado,Equipamiento adecuado,No,Sin información,Sin información,Sí
+POINT(-99.0312089761915 19.1985250930018),358,Foro Cultural Calmecac,"-99,03120898","19,19852509",Sí,No aplica,Adaptado,Equipamiento adecuado,No,No,Otro,No
+POINT(-99.166135404281 19.3983105241605),117,Radio Cinema de Radio UNAM,"-99,1661354","19,39831052",Sí,No aplica,Sala de cine,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1567171 19.441993),183,Cinematógrafo del Museo Universitario del Chopo ,"-99,1567171","19,441993",Sí,No aplica,Sala de cine,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1670039189255 19.2888403870231),3,MICAM,"-99,16700392","19,28884039",No aplica,No aplica,No aplica,Equipamiento profesional,Sí,No,Otro,No
+POINT(-99.1632011 19.4197271),142,Goethe- Institut Mexiko,"-99,1632011","19,4197271",Sí,No aplica,Auditorio,Equipamiento profesional,Sí,Sin información,Sin información,Sin información
+POINT(-99.2429838068719 19.4824003330299),352,Cineclub Cinema Acatlán,"-99,24298381","19,48240033",Sí,No aplica,Sala de proyecciones,Equipamiento profesional,No,No,Otro,Sí
+POINT(-99.1333353007336 19.4930705541421),193,Futurama,"-99,1333353","19,49307055",Sí,No aplica,Sala de cine,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1422655 19.3562773),128,Sala Luis Buñuel. CCC,"-99,1422655","19,3562773",Sí,No aplica,Sala de cine,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1982025700997 19.4531819026738),349,CINE CON-SENTIDO,"-99,19820257","19,4531819",Sí,No aplica,Sala de proyecciones,Equipamiento profesional,Sí,Sí,Otro,Sí
+POINT(-98.9952482994899 19.2213321752624),219,Cine Club Olla de Piedra,"-98,9952483","19,22133218",Sí,No aplica,Adaptado,Equipamiento profesional,Sí,Sin información,Sin información,Sin información
+POINT(-99.1586304 19.348587),127,Centro Cultural Elena Garro,"-99,1586304","19,348587",Sí,No aplica,Auditorio,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1650577 19.3707094),119,Sala de cine metro Zapata,"-99,1650577","19,3707094",Sí,No aplica,Adaptado,Equipamiento profesional,Sin información,Sin información,Sin información,Sí
+POINT(-99.1911961987024 19.4327317936245),209,Cineclub y Charla en Alianza Francesa Polanco,"-99,1911962","19,43273179",Sí,No aplica,Auditorio,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1880212 19.2980103),234,Cine Villa  Olímpica,"-99,1880212","19,2980103",Sí,No aplica,Sala de cine,Equipamiento profesional,Sí,Sin información,Mixto,Sí
+POINT(-99.1913236 19.4327609),208,Centro Cultural Brasil en México,"-99,1913236","19,4327609",Sí,No aplica,Adaptado,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1023745250061 19.3034916838931),132,Cineclub Sin Límites UAM-X (Comunicación),"-99,10237453","19,30349168",Sí,No aplica,Auditorio,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1759269 19.4228005),207,Sala de cine Más Allá (CENTRO DE CULTURA DIGITAL),"-99,1759269","19,4228005",Sí,No aplica,Sala de cine,Equipamiento profesional,No,Sin información,Sin información,Sin información
+POINT(-99.2822939219825 19.352783906492),133,Cineclub de la División de Ciencias de la Comunicación y Diseño UAM Cuajimalpa,"-99,28229392","19,35278391",Sí,No aplica,Adaptado,Equipamiento insuficiente,No,Sin información,Sin información,Sin información
+POINT(-99.1897902690001 19.3453485065636),103,Cine Club El Carmen en Familia ,"-99,18979027","19,34534851",Sí,No aplica,Auditorio,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1312573765934 19.4325968467038),332,Cineclub Ellas Dirigen,"-99,13125738","19,43259685",No aplica,No aplica,Adaptado,Equipamiento insuficiente,Sí,No,Digital,Sí
+POINT(-99.1696633 19.4608844),110,Parque de Bolsillo Nueva Santa María,"-99,1696633","19,4608844",Sí,No aplica,Adaptado,Equipamiento insuficiente,Sí,Sin información,Sin información,Sin información
+POINT(-99.0898496050231 19.3604991026025),204,Cinema Atlalilco,"-99,08984961","19,3604991",No,No aplica,Adaptado,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+POINT(-99.120959 19.3034547),131,Dandole vuelo a la hilacha,"-99,120959","19,3034547",Sí,No aplica,Auditorio,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1539547370939 19.3953457149647),336,Cineclub Tóxico,"-99,15395474","19,39534571",No aplica,No aplica,Adaptado,Equipamiento insuficiente,No,No,Digital,No
+POINT(-99.1524907 19.3782637),115,Tiempo de Cine ,"-99,1524907","19,3782637",Sí,No aplica,Auditorio,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1889072608732 19.3835983546117),346,Laboratorio por los derechos culturales MH,"-99,18890726","19,38359835",No,No aplica,No aplica,Equipamiento insuficiente,No,No,Sin información,No
+POINT(-99.0207656972723 19.2951450598932),78,Viendo LA VIDA CON ALEGRIA,"-99,0207657","19,29514506",No aplica,No aplica,No aplica,Equipamiento insuficiente,Sí,No,Digital,No
+POINT(-99.2644415769556 19.3711311826042),104,Cineclub Comunicación IBERO,"-99,26444158","19,37113118",Sí,No aplica,Sala de cine,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1313185 19.4519111),151,Ciclo de cine en el Museo Indígena del INPI,"-99,1313185","19,4519111",Sí,No aplica,Auditorio,Equipamiento insuficiente,Sí,Sin información,Sin información,Sin información
+POINT(-99.1647339 19.3606529),123,Cineclub Cineteca 43,"-99,1647339","19,3606529",Sí,No aplica,Adaptado,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1330071 19.4352452),139,Centro Cultural de España en México,"-99,1330071","19,4352452",Sí,No aplica,Adaptado,Equipamiento insuficiente,Sí,Sin información,Sin información,Sin información
+POINT(-99.1148506 19.3938582),198,"Casa de Cultura ""Centro de Artes y Oficios""","-99,1148506","19,3938582",Sí,No aplica,Adaptado,Equipamiento insuficiente,No,Sin información,Sin información,Sin información
+POINT(-99.0054509068773 19.2742504217114),353,Cineclub Cotidiano Crew,"-99,00545091","19,27425042",No aplica,No aplica,No aplica,Equipamiento insuficiente,No,No,Digital,No
+POINT(-99.1232456171112 19.4423635673701),148,Cine club Casa Barrio Tepito,"-99,12324562","19,44236357",Sí,Recuperado,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1633254769482 19.4178099265432),154,Rebelar,"-99,16332548","19,41780993",Sí,Recuperado,Adaptado,Equipamiento adecuado,No,Sin información,Sin información,Sin información
+POINT(-99.1421252185174 19.2800354059137),238,Cineclub Kin Metztli,"-99,14212522","19,28003541",No,Comunitario,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1522292315713 19.5273862044825),195,Colectivo Cultural Sendero Cofradía,"-99,15222923","19,5273862",Sin información,Comunitario,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1620187465087 19.4091913399736),186,ReverdeSer,"-99,16201875","19,40919134",Sin información,Comunitario,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-98.9961505199202 19.3422079800243),52,La Sabana de filmes,"-98,99615052","19,34220798",Sí,Comunitario,Adaptado,Equipamiento mínimo,Sí,No,Físico,Sí
+POINT(-99.1545271 19.4381105),171,IIPSOCULTA (Casa de los amigos),"-99,1545271","19,4381105",Sin información,Comunitario,Adaptado,Equipamiento mínimo,No,Sin información,Sin información,Sin información
+POINT(-99.1057896229828 19.3862210357864),91,cineclub Infonavit Iztacalco ,"-99,10578962","19,38622104",Sí,Comunitario,Adaptado,Equipamiento mínimo,No,No,Otro,No
+POINT(-99.118552190091 19.2633237325199),29,Cine Club ComunitarioMadeja de Ideas,"-99,11855219","19,26332373",No aplica,Comunitario,Adaptado,Equipamiento mínimo,No,No,Otro,No
+POINT(-98.9966755124312 19.3421155439224),334,Centro Comunitario,"-98,99667551","19,34211554",Sí,Comunitario,Adaptado,Equipamiento mínimo,Sí,No,Físico,Sí
+POINT(-98.9876949747496 19.3438833381021),48,Museo Comunitariode San Miguel Teotongo,"-98,98769497","19,34388334",Sí,Comunitario,Adaptado,Equipamiento mínimo,Sí,No,Digital,No
+POINT(-99.1542015035834 19.421827266778),41,ZIFF CINECLUB ,"-99,1542015","19,42182727",No,Comunitario,Adaptado,Equipamiento mínimo,No,Sí,Digital,No
+POINT(-99.1033650536789 19.4474653860858),8,CINE CLUB UNDERCITY,"-99,10336505","19,44746539",Sí,Comunitario,Adaptado,Equipamiento mínimo,No,No,Digital,No
+POINT(-99.0901200473556 19.1911281299955),83,Casa de las Artes Cuauhtenco,"-99,09012005","19,19112813",Sí,Comunitario,Adaptado,Equipamiento mínimo,No,No,Otro,Sí
+POINT(-99.1054961257032 19.3832757824809),34,Cineclub Infonavit Iztacalco  ,"-99,10549613","19,38327578",Sí,Comunitario,Adaptado,Equipamiento mínimo,No,Sí,Digital,Sí
+POINT(-99.2056326612526 19.4735812989784),10,Escuela de Cronistas Carlos Monsiváis ,"-99,20563266","19,4735813",No aplica,Comunitario,Adaptado,Equipamiento mínimo,Sí,No,Mixto,Sí
+,330,Cine Club Indigente Copal,,,Sí,Comunitario,Adaptado,Equipamiento mínimo,No,Sí,Otro,Sí
+POINT(-98.9968382185159 19.335288827189),86,ENCUENTRO CINECLUB,"-98,99683822","19,33528883",Sí,Comunitario,Adaptado,Equipamiento adecuado,Sí,Sí,Otro,No
+POINT(-99.124278 19.290778),236,Fuerza Colectiva Coapa (Unidad Habitacional Coapa),"-99,124278","19,290778",Sí,Comunitario,Adaptado,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1676668358265 19.2658996798668),2,Cine club El gato azul,"-99,16766684","19,26589968",Sí,Comunitario,Adaptado,Equipamiento adecuado,No,Sí,Mixto,Sí
+POINT(-99.1098384042288 19.3976076257187),62,Cineclub Jarillas,"-99,1098384","19,39760763",Sí,Comunitario,Adaptado,Equipamiento adecuado,No,No,Otro,No
+POINT(-99.1095124643844 19.318648),42,CINECLUB CULHUACÁN,"-99,10951246","19,318648",Sí,Comunitario,Adaptado,Equipamiento adecuado,No,No,Digital,No
+POINT(-99.1697469324208 19.2681792391745),76,Cineclub Luciérnaga,"-99,16974693","19,26817924",No,Comunitario,Sin información,Equipamiento adecuado,Sí,No,Físico,No
+POINT(-99.1612465170791 19.3644782760022),14,Cineclub CT6,"-99,16124652","19,36447828",Sí,Comunitario,Sala de proyecciones,Equipamiento profesional,No,No,Digital,No
+POINT(-99.1583636492017 19.4118223609096),81,Ovnibus,"-99,15836365","19,41182236",Sí,Comunitario,Adaptado,Equipamiento insuficiente,Sí,Sí,Otro,No
+POINT(-99.1013282 19.4873148135201),67,CERES-CINE CLUB ,"-99,1013282","19,48731481",Sí,Comunitario,Adaptado,Equipamiento insuficiente,Sí,Sí,Físico,Sí
+POINT(-99.142007860841 19.4475297498666),100,Comunidad nueva ,"-99,14200786","19,44752975",Sí,Comunitario,Adaptado,Equipamiento insuficiente,No,No,Digital,Sí
+POINT(-99.1878364897087 19.3951811816018),347,Proyecto Narud,"-99,18783649","19,39518118",Sí,Comunitario,No aplica,Equipamiento insuficiente,No,No,Sin información,No
+POINT(-99.1620495086518 19.5045338351757),37,UHLV ,"-99,16204951","19,50453384",Sí,Comunitario,Adaptado,Equipamiento insuficiente,No,No,Digital,No
+POINT(-99.1710264933844 19.3092698655968),5,Cine Club Villa Panamericana,"-99,17102649","19,30926987",Sí,Comunitario,Adaptado,Equipamiento insuficiente,No,No,Otro,No
+POINT(-99.0416738784395 19.3841103540353),15,Cine ComunitarioCABEZA DE JUÁREZ,"-99,04167388","19,38411035",Sí,Comunitario,Adaptado,Equipamiento insuficiente,No,No,Digital,Sí
+POINT(-99.1421358896798 19.3390243748952),338,Foro Cultural el Caracol ,"-99,14213589","19,33902437",Sí,Comunitario,Adaptado,Equipamiento insuficiente,No,No,Físico,No
+POINT(-99.1195113091654 19.3718517470801),75,Casa de Cultura El Sifón,"-99,11951131","19,37185175",Sí,Comunitario,Adaptado,Equipamiento insuficiente,Sí,No,Digital,No
+POINT(-99.1279742 19.4361831),190,Universidad Obrera de México,"-99,1279742","19,4361831",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1530214 19.3381567),251,Casa de los Pueblos Originarios DR. Miguel León Portilla,"-99,1530214","19,3381567",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1829467132869 19.4908735944254),329,Soy Audiovisual,"-99,18294671","19,49087359",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1701144 19.39291),118,Cineclub Casa Patricio ,"-99,1701144","19,39291",Sí,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0080772628228 19.2041996953288),241,Colectivo Barrio Conciencia,"-99,00807726","19,2041997",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.2403137 19.3626389),105,LA ARAÑA,"-99,2403137","19,3626389",Sí,Sin información,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1776715744809 19.4536452179823),264,Organización de Vecinos Popotla (ORVE- Popotla),"-99,17767157","19,45364522",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1746237 19.4118433),161,Círculo Psicoanalítico Mexicano ,"-99,1746237","19,4118433",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.2056112 19.4733689),108,Siervos de la Cultura:Cineclub,"-99,2056112","19,4733689",No,Sin información,Sin información,Sin información,Sí,Sin información,Físico,Sin información
+POINT(-99.1719798392009 19.4162579818595),153,Cineclub Casa Negra (antes Cine Oculto),"-99,17197984","19,41625798",No,Sin información,Adaptado,Sin información,No,Sin información,Sin información,Sin información
+POINT(-99.1318278647612 19.4340606225255),324,Seminario 12,"-99,13182786","19,43406062",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1720656699066 19.4161871511649),155,Cine Club Condesa (es el mismo que cineclub Casa Negra?),"-99,17206567","19,41618715",Sí,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1533416248242 19.4200661508265),167,Cine Club La Galera,"-99,15334162","19,42006615",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1605887185141 19.40543022694),189,TODOS SOMOS OTROS FESTIVAL INTERNACIONAL TODOS SOMOS OTROS,"-99,16058872","19,40543023",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.203446978037 19.4407874105873),172,Los realizadores,"-99,20344698","19,44078741",Sin información,Sin información,Sin información,Sin información,Sí,Sin información,Sin información,Sin información
+POINT(-99.0663966 19.2955479),263,Cineforum ComunitarioItinerante,"-99,0663966","19,2955479",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1308043 19.4383784),266,Casa del Hijo del Ahuizote,"-99,1308043","19,4383784",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0545072953326 19.2965134097209),222,LA NOPALERA,"-99,0545073","19,29651341",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1533121 19.4199979),274,Escuela Itinerante de Cine y Narrativa ,"-99,1533121","19,4199979",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1359846809523 19.4362933852497),156,Cinema Queer México,"-99,13598468","19,43629339",Sí,Sin información,Sin información,Sin información,No,Sin información,Sin información,Sin información
+POINT(-99.1393557931722 19.4362187369008),159,CineClub Munal,"-99,13935579","19,43621874",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.144297 19.433207),306,Cine Club Atlántico,"-99,144297","19,433207",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1500703358248 19.4384027229305),169,kinotecnia Cineclub,"-99,15007034","19,43840272",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.113922 19.4812995),44,Cinito Tlacuache La Villa ,"-99,113922","19,4812995",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1323941 19.4479999),168,Galería José María Velasco,"-99,1323941","19,4479999",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.281682694349 19.3423022876523),134,Cine Foro Mayahuel ,"-99,28168269","19,34230229",Sí,Sin información,Adaptado,Sin información,No,Sin información,Sin información,Sin información
+POINT(-99.2454647766499 19.2708418819851),328,Semillitas de Colores ( Casa del Éxodo),"-99,24546478","19,27084188",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1628191276484 19.347974036103),322,Cinenauta,"-99,16281913","19,34797404",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1764571 19.2692994),257,Centro ComunitarioLos Volcanes,"-99,1764571","19,2692994",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0313193 19.3375514),200,Casa de Cultura Imaginarte,"-99,0313193","19,3375514",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1371869 19.3335758),250,Casa de las Letras ,"-99,1371869","19,3335758",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1605629036428 19.4089483009969),187,Sprockets Cine Club Infantil ,"-99,1605629","19,4089483",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0567259143711 19.32381602093),201,Cine Club CODECO Chavos Banda,"-99,05672591","19,32381602",Sí,Sin información,Adaptado,Equipamiento mínimo,Sí,Sin información,Sin información,Sí
+POINT(-99.0675497 19.2920381),203,Parque Tematico Cananea,"-99,0675497","19,2920381",Sí,Sin información,Adaptado,Equipamiento mínimo,Sin información,Sin información,Sin información,Sin información
+POINT(-98.9931635180771 19.2184599352247),220,Cine Club ComunitarioMetzli,"-98,99316352","19,21845994",Sí,Sin información,Adaptado,Equipamiento mínimo,Sí,Sin información,Sin información,Sin información
+POINT(-99.1639295 19.4181733),175,We Are Todos,"-99,1639295","19,4181733",Sí,Sin información,Adaptado,Equipamiento mínimo,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0961530220113 19.2775581547066),244,Noctambulante,"-99,09615302","19,27755815",Sí,Sin información,Adaptado,Equipamiento mínimo,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1984173477599 19.3392210746357),55,Ícaro Espacio,"-99,19841735","19,33922107",No,Sin información,Adaptado,Equipamiento mínimo,No,No,Digital,No
+POINT(-99.1384052 19.4276162),166,Fundación para Ancianos Concepción Beistegui,"-99,1384052","19,4276162",Sí,Sin información,Adaptado,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1258329 19.4061636),240,Cineclub Psicocinema,"-99,1258329","19,4061636",Sí,Sin información,Sala de cine,Equipamiento adecuado,Sí,Sin información,Sin información,Sin información
+POINT(-99.1641848830986 19.4270128168662),147,Cineclub Tornasolados: los colores de la diversidad,"-99,16418488","19,42701282",Sí,Sin información,Adaptado,Equipamiento adecuado,Sí,Sin información,Sin información,Sin información
+POINT(-99.1364598864893 19.4263996605873),162,Claustro de Sor Juana,"-99,13645989","19,42639966",Sin información,Sin información,Sin información,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1309381063486 19.267057447172),242,Sanadoras,"-99,13093811","19,26705745",Sin información,Sin información,Adaptado,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1375946 19.4308291),170,La Casa del Cine Mx,"-99,1375946","19,4308291",Sin información,Sin información,Sala de cine,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+POINT(-99.2168835 19.2059986),235,Centro ComunitarioAhuayoto,"-99,2168835","19,2059986",Sí,Sin información,Adaptado,Equipamiento adecuado,No,Sin información,Sin información,Sin información
+POINT(-99.159064 19.4145754),141,Casa Chicha,"-99,159064","19,4145754",Sí,Sin información,Adaptado,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1178247019177 19.4669556882105),1,Cineclub Torres del Parque ,"-99,1178247","19,46695569",No,Sin información,Sala de cine,Equipamiento adecuado,No,No,Otro,Sí
+POINT(-99.1775966910941 19.4073928016893),146,Cine Lido,"-99,17759669","19,4073928",Sí,Sin información,Sala de cine,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1359752456869 19.4364538381816),144,Casa Manu Centro Humanista,"-99,13597525","19,43645384",Sí,Sin información,Adaptado,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1716566 19.4092044),145,Casa Refugio Citlatépetl,"-99,1716566","19,4092044",Sin información,Sin información,Adaptado,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1770320272559 19.4116437152205),160,Necios Bar ,"-99,17703203","19,41164372",Sí,Sin información,Adaptado,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1862279 19.34839),102,Alianza francesa - San Ángel,"-99,1862279","19,34839",Sí,Sin información,Sala de cine,Equipamiento insuficiente,Sí,Sin información,Digital,Sin información
+POINT(-99.1458963 19.4424262),149,Campamentos Unidos (Sede Zarco),"-99,1458963","19,4424262",Sí,Sin información,Adaptado,Equipamiento insuficiente,Sí,Sin información,Sin información,Sin información
+POINT(-99.1448287 19.4229482),188,Sueños libres (Centro Urbano Doctores) ,"-99,1448287","19,4229482",Sí,Sin información,Adaptado,Equipamiento insuficiente,No,Sin información,Sin información,Sin información
+POINT(-99.1479996935196 19.4495972405689),150,Campamentos Unidos (Sede Zaragoza),"-99,14799969","19,44959724",Sí,Sin información,Adaptado,Equipamiento insuficiente,Sí,Sin información,Sin información,Sin información
+POINT(-99.2363701558201 19.2740523512074),164,Colectivo Productora Calles,"-99,23637016","19,27405235",No,Sin información,Adaptado,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sí
+POINT(-99.1812179944452 19.4033969662804),212,Cine club Elena Poniatowska,"-99,18121799","19,40339697",Sí,Sin información,Adaptado,Equipamiento insuficiente,Sí,Sin información,Sin información,Sin información
+POINT(-99.1438605426153 19.429856198866),138,Artesanas Colectiva                     (Punto Gozadera),"-99,14386054","19,4298562",Sí,Sin información,Adaptado,Equipamiento insuficiente,No,Sin información,Sin información,Sin información
+POINT(-99.1732310766855 19.2676866310714),233,Ciberescuela San Pedro Mártir,"-99,17323108","19,26768663",Sí,Sin información,Adaptado,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1390384780367 19.4513600621356),206,Cine club Bravo,"-99,13903848","19,45136006",Sin información,Sin información,Sin información,Equipamiento insuficiente,Sí,Sí,Sin información,Sin información
+POINT(-99.1342656 19.4013943),112,Semillero de Copil,"-99,1342656","19,4013943",Sí,Sin información,Adaptado,Equipamiento insuficiente,No,Sin información,Sin información,Sin información
+POINT(-99.1653135 19.349377),122,Cinefilias,"-99,1653135","19,349377",Sin información,Sin información,Sin información,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1471287 19.4339618),191,Cinestésica,"-99,1471287","19,4339618",Sí,Sin información,Auditorio,Equipamiento insuficiente,Sí,Sin información,Sin información,Sin información
+POINT(-99.1030546002668 19.4457601112416),265,Colectivo Cultural Semilleros,"-99,1030546","19,44576011",Sin información,Sin información,Adaptado,Equipamiento insuficiente,Sí,Sin información,Sin información,Sin información

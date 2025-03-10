@@ -1,0 +1,401 @@
+geom,nombre_del_espacio,alcaldia,longitude,latitude,espacio_fisico_permanente,tipo_de_espacio_fisico,espacio_especializado,tipo_de_equipamiento,archivo_filmico,videoteca,tipo_de_archivo,redes
+,,,,,,,,,,,,
+POINT(-99.2056112 19.4733689),Silvestre Revueltas,Iztacalco,"-99,09599081","19,39490083",No,Sin información,Sin información,Sin información,Sí ,Sin información,Físico,Sin información
+POINT(-99.28168269 19.34230229),Cine Foro Mayahuel ,Cuajimalpa,"-99,28168269","19,34230229",Sí,Sin información,Adaptado,Sin información,No,Sin información,No aplica,Sin información
+POINT(-99.0056686 19.2690289),CineClub Comunitario Riachuelo Sepentino,Tláhuac,"-99,0056686","19,2690289",Sí,No aplica,Adaptado,Sin información,No,Sin información,No aplica,Sin información
+POINT(-99.17197984 19.41625798),Cineclub Casa Negra (antes Cine Oculto),Itinerante,"-99,17197984","19,41625798",No,Sin información,Adaptado,Sin información,No,Sin información,No aplica,Sin información
+POINT(-99.13598468 19.43629339),Cinema Queer México,Itinerante,"-99,13598468","19,43629339",Sí,Sin información,Sin información,Sin información,No,Sin información,No aplica,Sin información
+POINT(-99.1852112 19.4839412),Videoteca Manuel Álvarez Bravo ,Azcapotzalco,"-99,1852112","19,4839412",Sin información,No aplica,Adaptado,Sin información,No,Sin información,No aplica,Sí
+POINT(-99.15157173 19.38434642),Soy Audiovisual,Azcapotzalco,"-99,18294671","19,49087359",Sí,No aplica,Sala de cine,Sin información,No,Sin información,No aplica,Sin información
+POINT(-99.12324562 19.44236357),Cine club Casa Barrio Tepito,Cuauhtémoc,"-99,1232442","19,4425096",Sí,Recuperado,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1916238 19.5082611),Biblioteca Pública Jorge Alberto Menrique,Azcapotzalco,"-99,1916238","19,5082611",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.294882 19.356444),"LUNA 2 ""Amparo Ochoa""",Cuajimalpa,"-99,294882","19,356444",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1667241 19.4326443),IIPSOCULTA (Casa de los amigos),Iztapalapa,"-99,05775059","19,39202827",Sí,Organismo internacional,Sala de Cine,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.181716 19.42572),Museo Tamayo Arte Contemporáneo ,Miguel Hidalgo,"-99,181716","19,42572",Sí,Propio,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1383219 19.363354),Raices Centro Cultural,Iztapalapa,"-99,1383219","19,363354",Sí,Privado,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.15334162 19.42006615),Cine Club La Galera,Cuauhtémoc,"-99,15334162","19,42006615",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.2001348 19.5069144),Faro Xochicalli Poniente (Faro Azcapotzalco),Azcapotzalco,"-99,2001348","19,5069144",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.19932283 19.40265723),LUNA 2 Frida Kahlo,Miguel Hidalgo,"-99,19932283","19,40265723",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.20386378 19.40508833),"CENTRO (Centro de diseño,cine y televisión)",Miguel Hidalgo,"-99,20386378","19,40508833",Sin información,Privado,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0489941 19.36223192),Cineclub en Linea (El Transformador- Centro de Artes y Oficios),Virtual,"-99,0489941","19,36223192",No ,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0310684 19.1980852),LUNA 2 Cihual In Calli,Milpa Alta,"-99,0310684","19,1980852",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.2858835 19.36169181),Cineclub Labradores de Sueños (IEMS),Cuajimalpa,"-99,2858835","19,36169181",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0545073 19.29651341),LA NOPALERA,Tláhuac,"-99,0545073","19,29651341",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.146825 19.390868),"LUNA 1 ""Benita Galeana""",Benito Juárez,"-99,146825","19,390868",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.07327954 19.40005752),"LUNA 2 ""Coatlicue""",Iztacalco,"-99,07327954","19,40005752",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0682583 19.4154049),"PILARES ""Agrícola Pantitlán""",Iztacalco,"-99,0682583","19,4154049",Sin información,De dependencia pública,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.21755977 19.39704157),"PILARES ""Belén de las Flores""",Álvaro Obregón,"-99,21755977","19,39704157",Sin información,De dependencia pública,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.07263005 19.36267711),Semillero de Copil,Iztacalco,"-99,1342656","19,4013943",Sí,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sí
+POINT(-99.1444725 19.43416094),Colectivo Cine Social (En el Museo Memoria y Tolerancia),Cuauhtémoc,"-99,1444725","19,43416094",Sin información,Privado,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0742922 19.3106968),La casa de Cultura del Barrio San Antonio ,Iztapalapa,"-99,0742922","19,3106968",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1817405 19.4874448),"LUNA 1 ""Marcela Lagarde""",Azcapotzalco,"-99,1817405","19,4874448",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.021449 19.19112),LUNA 1 Cihual In Calli,Milpa Alta,"-99,021449","19,19112",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1279742 19.4361831),Universidad Obrera de México,Cuauhtémoc,"-99,1279742","19,4361831",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.2228533 19.2755019),Centro de Artes y Oficios del Ajusco Medio ,Tlalpan,"-99,2228533","19,2755019",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.16281913 19.34797404),Cinenauta,Coyoacán,"-99,16281913","19,34797404",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.16201875 19.40919134),ReverdeSer,Itinerante,"-99,16201875","19,40919134",Sin información,Comunitario,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1781203 19.3186969),Disidentas,Coyoacán,"-99,1781203","19,3186969",Sin información,No aplica,Sin información,Sin información,Sí ,Sin información,Sin información,Sin información
+POINT(-99.1303977 19.4332126),Museo Nacional de las Culturas,Cuauhtémoc,"-99,1303977","19,4332126",Sí,De dependencia pública,Sala de cine,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.24884729 19.315441),"LUNA ""Cristina Pacheco""",Magdalena Contreras,"-99,24884729","19,315441",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1847318 19.3316664),Facultad de Ingeniería,Coyoacán,"-99,1847318","19,3316664",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.13003121 19.43627293),Museo de la Luz,Cuauhtémoc,"-99,13003121","19,43627293",Sin información,No aplica,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.16888 19.40819),Universidad del Distrito Federal Campus Condesa,Cuauhtémoc,"-99,16888","19,40819",Sin información,Privado,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.21100732 19.37443191),"LUNA 2 ""Alaíde Foppa""",Álvaro Obregón,"-99,21100732","19,37443191",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1320953 19.439209),Museo de la Mujer,Cuauhtémoc,"-99,1320953","19,439209",Sin información,Privado,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1533121 19.4199979),Escuela Itinerante de Cine y Narrativa ,Cuauhtémoc,"-99,1533121","19,4199979",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.00807726 19.2041997),Colectivo Barrio Conciencia,Itinerante,"-99,10080326","19,26365845",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.20344698 19.44078741),Los realizadores,Itinerante,"-99,20344698","19,44078741",Sin información,Sin información,Sin información,Sin información,Sí ,Sin información,Sin información,Sin información
+POINT(-99.1435938 19.3835803),"LUNA 2 ""Benita Galeana""",Álvaro Obregón,"-99,194826","19,38928536",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.17973785 19.30238951),Escuela Nacional de Antropología e Historia,Tlalpan,"-99,17973785","19,30238951",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.09284501 19.35202843),"LUNA ""Elena Poniatowska""",Iztapalapa,"-99,09284501","19,35202843",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.16010835 19.46035291),"PILARES ""Atlampa""",Cuauhtémoc,"-99,16010835","19,46035291",Sin información,De dependencia pública,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1764571 19.2692994),Centro Comunitario Los Volcanes,Tlalpan,"-99,1764571","19,2692994",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1170215 19.483311),"LUNA 1 ""Nahui Ollín""",Gustavo A. Madero,"-99,1170215","19,483311",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.144297 19.433207),Cine Club Atlántico,Cuauhtémoc,"-99,144297","19,433207",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.17185027 19.3179266),"PILARES ""Cantera""",Coyoacán,"-99,17185027","19,3179266",Sin información,De dependencia pública,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1641085 19.4192674),PULQUECINEMA,Cuauhtémoc,"-99,1641085","19,4192674",Sí,Privado,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.24546478 19.27084188),Seminario 12,Cuauhtémoc,"-99,13182786","19,43406062",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1046667 19.4838397),"IEMS Plantel Iztapalapa II ""Benito Juárez""",Iztapalapa,"-99,06510406","19,3146872",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1346883 19.4276917),Museo Casa de la Memoria Indómita,Cuauhtémoc,"-99,1346883","19,4276917",Sin información,Comodato,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.118055 19.252085),Facultad de Artes y Diseño,Xochimilco,"-99,118055","19,252085",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1371869 19.3335758),Casa de las Letras ,Coyoacán,"-99,1371869","19,3335758",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.24843842 19.30546224),"PILARES ""Huayatla""",Magdalena Contreras,"-99,24843842","19,30546224",Sin información,De dependencia pública,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.15222923 19.5273862),Colectivo Cultural Sendero Cofradía,Gustavo A. Madero,"-99,15222923","19,5273862",Sin información,Comunitario,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.17767157 19.45364522),Organización de Vecinos Popotla (ORVE- Popotla),Miguel Hidalgo,"-99,17767157","19,45364522",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.187028 19.503389),Universidad Autónoma Metropolitana. Unidad Azcapotzalco,Azcapotzalco,"-99,187028","19,503389",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1530214 19.3381567),Casa de los Pueblos Originarios DR. Miguel León Portilla,Coyoacán,"-99,1530214","19,3381567",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.14627463 19.43650973),Cine Club Santa Rosa,Cuauhtémoc,"-99,14627463","19,43650973",Sí,Privado,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1698219 19.3145457),"Casa de Las Mujeres ""Ifigenia Martínez"" ",Coyoacán,"-99,1698219","19,3145457",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.02590557 19.25849862),IFAL- Instituto Francés de América Latina,Cuauhtémoc,"-99,1667241","19,4326443",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0512242 19.2909083),Biblioteca Agrícola Metropolitana,Tláhuac,"-99,0512242","19,2909083",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.14212522 19.28003541),Cineclub Kin Metztli,Itinerante,"-99,14212522","19,28003541",No,Comunitario,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.14950773 19.32217875),"LUNA 2 ""Tina Modotti""",Coyoacán,"-99,14950773","19,32217875",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1025554 19.3229416),"Casa de Cultura ""Ricardo Flores Magón""",Coyoacán,"-99,1025554","19,3229416",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.06510406 19.3146872),"IEMS Xochimilco ""Bernardino Sahagún""",Xochimilco,"-99,02590557","19,25849862",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.23732285 19.37421476),"PILARES ""Jalalpa Tepito""",Álvaro Obregón,"-99,23732285","19,37421476",Sin información,De dependencia pública,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.12574749 19.54487036),"PILARES ""Tlalpexco""",Gustavo A. Madero,"-99,12574749","19,54487036",Sin información,De dependencia pública,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.13182786 19.43406062),Serdán Alatriste,Miguel Hidalgo,"-99,20239461","19,40429699",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.17482 19.35503),Cineclub Unidad de Género Comisión de Derechos Humanos de la CDMX,Coyoacán,"-99,17479907","19,35523628",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.30311513 19.34837752),"LUNA 1 ""Amparo Ochoa""",Cuajimalpa,"-99,30311513","19,34837752",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.163468 19.4311935),Museo Casa de Carranza,Cuauhtémoc,"-99,163468","19,4311935",Sin información,De dependencia pública,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1605629 19.4089483),Sueños libres (Centro Urbano Doctores) ,Cuauhtémoc,"-99,1448287","19,4229482",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1308043 19.4383784),Casa del Hijo del Ahuizote,Cuauhtémoc,"-99,1308043","19,4383784",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1701144 19.39291),Cineclub Casa Patricio ,Benito Juárez,"-99,1701144","19,39291",Sí,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.15167724 19.441278),"LUNA 1 ""Juana de Asbaje""",Cuauhtémoc,"-99,15167724","19,441278",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1858169 19.4223588),Casa del Lago,Miguel Hidalgo,"-99,1858169","19,4223588",Sí,De dependencia pública,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.12531883 19.39039109),"LUNA 1 ""Coatlicue""",Iztacalco,"-99,12531883","19,39039109",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.02165298 19.19252023),Museo Regional Altepepialcalli,Milpa Alta,"-99,02165298","19,19252023",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0313193 19.3375514),Casa de Cultura Imaginarte,Iztapalapa,"-99,0313193","19,3375514",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1980483 19.3911882),"LUNA 1 ""Alaíde Foppa""",Álvaro Obregón,"-99,1980483","19,3911882",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.11751963 19.48174314),Museo de los Ferrocarrileros,Gustavo A. Madero,"-99,11751963","19,48174314",Sin información,De dependencia pública,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0939156 19.3589067),Casa de Cultura Fuego Nuevo ,Iztapalapa,"-99,0939156","19,3589067",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.13935579 19.43621874),CineClub Munal,Cuauhtémoc,"-99,13935579","19,43621874",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.18844 19.40474),Museo Casa de la Bola,Miguel Hidalgo,"-99,18844","19,40474",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1501601 19.3229872),Casa de Cultura Raúl Anguiano ,Coyoacán,"-99,1501601","19,3229872",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.15910656 19.23439686),Centro de Artes y Oficios de los Pueblos,Tlalpan,"-99,15910656","19,23439686",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.31771238 19.35298359),"PILARES ""Chimalpa""",Cuajimalpa,"-99,31771238","19,35298359",Sin información,De dependencia pública,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0907815 19.3587543),Sala Quetzalcóatl (Auditorio),Iztapalapa,"-99,0907815","19,3587543",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.16731154 19.42967403),"LUNA 2 ""Juana de Asbaje""",Cuauhtémoc,"-99,16731154","19,42967403",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1323941 19.4479999),Galería José María Velasco,Cuauhtémoc,"-99,1323941","19,4479999",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.12932812 19.43646329),Museo de las Constituciones,Cuauhtémoc,"-99,12932812","19,43646329",Sin información,De dependencia pública,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.2045536 19.4998328),Colegio de Ciencias y Humanidades Plantel Azcapotzalco UNAM,Azcapotzalco,"-99,2045536","19,4998328",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.16058872 19.40543023),UHLV ,Gustavo A. Madero,"-99,16209802","19,50456412",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1416935 19.3174167),Casa de Cultura El Reloj (Ahora PILARES),Coyoacán,"-99,1416935","19,3174167",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0663966 19.2955479),Cineforum Comunitario Itinerante,Itinerante,"-99,0663966","19,2955479",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1746237 19.4118433),Círculo Psicoanalítico Mexicano ,Cuauhtémoc,"-99,1746237","19,4118433",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.17720823 19.3327554),"LUNA 1 ""Tina Modotti""",Coyoacán,"-99,17720823","19,3327554",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.17167351 19.44949492),Instituto del Derecho de Asilo Museo casa de León Trotsky AC,Coyoacán,"-99,15821105","19,36445867",Sin información,De dependencia pública,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.0310684 19.1980852),Casa de Cultura Calmecac,Milpa Alta,"-99,0310684","19,1980852",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.11474388 19.41940457),Centro Cultural Carranza,Venustiano Carranza,"-99,11474388","19,41940457",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1812638 19.3319335),Facultad de Química,Coyoacán,"-99,1812638","19,3319335",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.11771451 19.46398614),"LUNA 2 ""Nahui Ollín""",Gustavo A. Madero,"-99,11771451","19,46398614",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.18294671 19.49087359),Sprockets Cine Club Infantil ,Cuauhtémoc,"-99,1605629","19,4089483",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1990971 19.4902399),"PILARES ""Margarita Maza de Juárez""",Azcapotzalco,"-99,1990971","19,4902399",Sin información,De dependencia pública,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.18876914 19.40570724),LUNA 1 Frida Kahlo,Miguel Hidalgo,"-99,18876914","19,40570724",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.13462213 19.42808159),Cinito Cinedebate,Itinerante,"-99,13462213","19,42808159",Sí,Prestado,Adaptado,Sin información,Sí ,Sí,Sin información,Sin información
+POINT(-99.13558388 19.49762179),Escuela Superior de Ingeniería Mecánica y Eléctrica Unidad Zacatenco IPN,Gustavo A. Madero,"-99,13558388","19,49762179",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.15390034 19.35464806),Facultad de Música,Coyoacán,"-99,15390034","19,35464806",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.17206567 19.41618715),Cine Club Condesa ,Cuauhtémoc,"-99,17206567","19,41618715",Sí,Privado,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.170671 19.3493223),Casa de Cultura Jesus Reyes Heroles,Coyoacán,"-99,170671","19,3493223",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.191101 19.345121),Cineclub INEHRM,Álvaro Obregón,"-99,19082056","9,345780296",Sin información,No aplica,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1438167 19.46145999),"PILARES ""San Simón Tolnáhuac""",Cuauhtémoc,"-99,1438167","19,46145999",Sin información,De dependencia pública,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1830568 19.2742034),Centro de Artes y Oficios Mesa de los Hornos  ,Tlalpan,"-99,1830568","19,2742034",Sin información,De dependencia pública,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.2403137 19.3626389),Goethe- Institut Mexiko,Cuauhtémoc,"-99,1632011","19,4197271",Sí,Sin información,Adaptado,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.15007034 19.43840272),LA ARAÑA,Álvaro Obregón,"-99,2403137","19,3626389",Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información,Sin información
+POINT(-99.059460360937 19.3559832200787),Cineclub Pancho Villa,Iztapalapa,"-99,05946036","19,35598322",Sí,Comunitario,Adaptado,Equipamiento mínimo,No,No,Otro,No
+POINT(-99.20563266 19.4735813),Escuela de Cronistas Carlos Monsiváis ,Azcapotzalco,"-99,20563266","19,4735813",No aplica,Comunitario,Otro,Equipamiento mínimo,Sí ,No,Mixto,Sí
+POINT(-99.17348082 19.25938566),Cine Club Indigente Copal,Itinerante,"-99,17348082","19,25938566",No,Prestado,Adaptado,Equipamiento mínimo,Sí ,Sí,Mixto,No
+POINT(-99.0210811543662 19.200575083798),Cinema Rosario Castellanos Unidad Académica Herrerías,Milpa Alta,"-99,02108115","19,20057508",No,De dependencia pública,Adaptado,Equipamiento mínimo,Sí ,No,Digital,Sí
+POINT(-99.1388676269844 19.400658151028),Andrómeda cineclub,Benito Juárez,"-99,13189125","19,40065815",Sí,Prestado,Adaptado,Equipamiento mínimo,Sí ,Sí,Digital,Sí
+POINT(-99.0803818576719 19.452400353834),Cinema Rosario Castellanos Unidad Académica Gustavo A. Madero,Gustavo A. Madero,"-99,08038186","19,45240035",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,Sí ,No,Digital,Sí
+POINT(-99.1590372282175 19.3728387594294),Cinema Verde,Benito Juárez,"-99,15903723","19,37283876",No aplica,No aplica,Adaptado,Equipamiento mínimo,Sí ,No,Digital,No
+POINT(-99.1542015 19.42182727),ZIFF CINECLUB ,Itinerante,"-99,16001521","19,37259177",No,Comunitario,Adaptado,Equipamiento mínimo,No,Sí,Digital,No
+POINT(-99.1480917 19.33968218),CENTRO CULTURAL REAL UNDER / CINEMAUNDER,Coyoacán,"-99,1480917","19,33968218",Sí,Rentado,Adaptado,Equipamiento mínimo,Sí ,No,Digital,Sí
+POINT(-99.0640193627888 19.3454050820146),Cinema 1917,Iztapalapa,"-99,06401936","19,34540508",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,No,No,Digital,Sí
+POINT(-99.2095171399457 19.4885876234886),Cinema Rosario Castellanos Unidad Académica Azcapotzalco,Azcapotzalco,"-99,20951714","19,48858762",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,Sí ,No,Digital,Sí
+POINT(-99.06510406 19.3146872),"CineRgia IEMS Plantel Iztapalapa II ""Benito Juárez""",Iztapalapa,"-99,06510406","19,3146872",No,De dependencia pública,Adaptado,Equipamiento mínimo,Sí ,No,Digital,Sí
+POINT(-98.98769497 19.34388334),Museo comunitario de San Miguel Teotongo,Iztapalapa,"-98,98769497","19,34388334",Sí,Comunitario,Adaptado,Equipamiento mínimo,Sí ,No,Digital,No
+POINT(-99.2010394423282 19.5141434016572),Cineclub El Umbral ,Azcapotzalco,"-99,20114673","19,51413327",Sí,Privado,Adaptado,Equipamiento mínimo,Sí ,Sí,Digital,Sí
+POINT(-99.13845756 19.45802942),CINECLUB Barrio Warrior Colectivo A.C.,Cuauhtémoc,"-99,13845756","19,45802942",Sí,Rentado,Sala de proyecciones,Equipamiento mínimo,No,No,Digital,Sí
+POINT(-99.1469385762785 19.4388471617799),Cineclub EIA4,Cuauhtémoc,"-99,14693858","19,43884716",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,No,Sí,Digital,No
+POINT(-99.15465139 19.47856752),Muestra de Cortometrajes el Cine desde Diversas Trincheras,Itinerante,"-99,15465139","19,47856752",No,No aplica,Adaptado,Equipamiento mínimo,No,Sí,Digital,No
+POINT(-99.19284722 19.33679055),Universidad del Cine,Coyoacán,"-99,19324926","19,34026508",Sí,Rentado,Adaptado,Equipamiento mínimo,Sí ,Sí,Digital,Sí
+POINT(-99.06952102 19.48507151),Cineclub Cosmología México,Gustavo A. Madero,"-99,06952102","19,48507151",Sí,Prestado,Adaptado,Equipamiento mínimo,No,Sí,Digital,Sí
+POINT(-99.15116136 19.38581667),Cineclub LA VENTANA,Benito Juárez,"-99,15116136","19,38581667",Sí,Privado,Adaptado,Equipamiento mínimo,Sí ,No,Digital,Sí
+POINT(-98.9985620222641 19.1917656896669),"Cine Club Rosario Castellanos Unidad Académica ""Santa Ana""",Milpa Alta,"-98,99856202","19,19176569",No,De dependencia pública,Adaptado,Equipamiento mínimo,Sí ,No,Digital,Sí
+POINT(-99.1415695250988 19.4368130542066),Cine Espacio Latinoamérica,Itinerante,"-99,14156953","19,43681305",No,No aplica,Adaptado,Equipamiento mínimo,Sí ,Sí,Digital,No
+POINT(-99.07043912 19.35076659),Cineclub Jacaranda,Iztapalapa,"-99,07043912","19,35076659",Sí,Propio,Adaptado,Equipamiento mínimo,No,Sí,Digital,No
+POINT(-98.99667551 19.34211554),Centro Comunitario,Iztapalapa,"-98,99667551","19,34211554",Sí,Comunitario,Adaptado,Equipamiento mínimo,Sí ,No,Físico,Sí
+POINT(-99.18748317 19.33113024),"Cineclub de la Facultad de Arquitectura  ""Alejandro Galindo""",Coyoacán,"-99,18748317","19,33113024",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,Sí ,Sí,Físico,No
+POINT(-99.13189125 19.43549208),Argentina 8mm,Cuauhtémoc,"-99,13189125","19,43549208",Sí,Privado,Adaptado,Equipamiento mínimo,Sí ,No,Físico,No
+POINT(-99.16191517 19.42388292),Centro cultural Xavier Villaurrutia ,Cuauhtémoc,"-99,16191517","19,42388292",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,Sí ,No,Físico,Sí
+POINT(-99.12882225 19.43466317),"Cineclub ""Vicente Rojo"" del Centro Cultural de la SHCP",Cuauhtémoc,"-99,12882225","19,43466317",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,No,Sí,Físico,No
+POINT(-99.16072802 19.35001897),Cinema Pai Pai ,Coyoacán,"-99,16072802","19,35001897",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,Sí ,No,Físico,Sí
+POINT(-99.01158378 19.34705841),Instituto de la Juventud ,Miguel Hidalgo,"-99,17167351","19,44949492",No aplica,No aplica,Adaptado,Equipamiento mínimo,No,No,Físico,No
+POINT(-99.1477553204582 19.4396620917646),Proyecta Cuauhtémoc: Cine para Todos,Cuauhtémoc,"-99,14775532","19,43966209",Sí,De dependencia pública,,Equipamiento mínimo,Sí ,No,Físico,No
+POINT(-99.14358651 19.39968816),"Nocturama, cineclub de Tristessa",Benito Juárez,"-99,14358651","19,39968816",Sí,Rentado,Adaptado,Equipamiento mínimo,No,Sí,Físico,Sí
+POINT(-98.99615052 19.34220798),La Sabana de filmes,Iztapalapa,"-98,99615052","19,34220798",Sí,Comunitario,Adaptado,Equipamiento mínimo,Sí ,No,Físico,Sí
+POINT(-99.1858691762774 19.4837690421983),Cinema Chintololo,Azcapotzalco,"-99,18586918","19,48376904",Sí,De dependencia pública,,Equipamiento mínimo,No,Sí,Físico,No
+POINT(-99.20075055 19.45356288),Cine club Butaca Serdán- Preparatoria Carmen Serdán IEMS,Miguel Hidalgo,"-99,20075055","19,45356288",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,Sí ,Sí,Físico,Sí
+POINT(-99.18500828 19.37384431),Cineclub Biblioteca BS IBBY México,Benito Juárez,"-99,18500828","19,37384431",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,No,No,Físico,No
+POINT(-99.04983643 19.31084129),CINE CLUB Cine Vagabundo ,Tláhuac,"-99,04983643","19,31084129",Sí,Privado,Adaptado,Equipamiento mínimo,Sí ,Sí,Físico,Sí
+POINT(-98.9649115 19.2253299),Museo Andrés Quintana Roo,Tláhuac,"-98,9649115","19,2253299",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,No,Sin información,No aplica,Sí
+POINT(-99.10336505 19.44746539),CINE CLUB UNDERCITY,Venustiano Carranza,"-99,10336505","19,44746539",Sí,Comunitario,Adaptado,Equipamiento mínimo,No,No,No aplica,No
+POINT(-99.18662285 19.52650148),Centro Cultura Iztacala,Itinerante,"-99,18662285","19,52650148",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,No,No,No aplica,Sí
+POINT(-99.1545271 19.4381105),Indómita cine comunitario,Iztapalapa,"-99,01158378","19,34705841",Sin información,Comunitario,Adaptado,Equipamiento mínimo,No,Sin información,No aplica,Sin información
+POINT(-99.17679716 19.41409888),Uotan Studio,Cuauhtémoc,"-99,17679716","19,41409888",Sí,Privado,Adaptado,Equipamiento mínimo,No,No,No aplica,No
+POINT(-99.09012005 19.19112813),Casa de las Artes Cuauhtenco,Milpa Alta,"-99,09012005","19,19112813",Sí,Comunitario,Adaptado,Equipamiento mínimo,No,No,No aplica,Sí
+POINT(-99.04633564 19.28590482),Cinema Faraíso en Faro Tláhuac,Tláhuac,"-99,04633564","19,28590482",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,No,No,No aplica,Sí
+POINT(-99.15632666 19.4099411),Espacio de convivencia,Itinerante,"-99,15632666","19,4099411",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,No,No,No aplica,Sí
+POINT(-99.13276618 19.42934229),Universidad Autónoma Metropolitana. Unidad Iztapalapa,Iztapalapa,"-99,07263005","19,36267711",Sí,Privado,Adaptado,Equipamiento mínimo,No,No,No aplica,No
+POINT(-99.19899019 19.48968935),El rincón de la margarita,Azcapotzalco,"-99,19899019","19,48968935",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,No,No,No aplica,Sin información
+POINT(-99.0603397 19.29368006),Cineclub Viaje Submarino (Casa de Cultura Diego Rivera),Tláhuac,"-99,0603397","19,29368006",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,No,Sin información,No aplica,Sin información
+POINT(-99.13201709 19.43583325),Ciclo de Cine- Debate. El Colegio Nacional,Cuauhtémoc,"-99,13201709","19,43583325",Sí,Sin información,Adaptado,Equipamiento mínimo,No,Sin información,No aplica,Sin información
+POINT(-99.13388743 19.43199707),Cine Ágora,Cuauhtémoc,"-99,13388743","19,43199707",Sí,Privado,Sala de proyecciones,Equipamiento mínimo,No,No,No aplica,No
+POINT(-99.0100822 19.3699235),FARO de Oriente ,Iztapalapa,"-99,0100822","19,3699235",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,No,No,No aplica,Sí
+POINT(-99.05775305 19.29460733),Casa de Cultura Juan Manuel Martínez,Tláhuac,"-99,05775305","19,29460733",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,No,Sin información,No aplica,Sí
+POINT(-99.13380162 19.43196667),"Espacio de exhibición Ágora, Galería del Pueblo",Cuauhtémoc,"-99,13380162","19,43196667",Sí,Propio,Adaptado,Equipamiento mínimo,No,No,No aplica,No
+POINT(-99.09832223 19.21716276),La montaña,Xochimilco,"-99,09832223","19,21716276",Sí,Comunitario,Adaptado,Equipamiento mínimo,No,No,No aplica,No
+POINT(-99.19432632 19.28690392),FORO ELEFANTE ,Tlalpan,"-99,19432632","19,28690392",Sí,Privado,Adaptado,Equipamiento mínimo,No,No,No aplica,Sí
+POINT(-99.02317811 19.19042684),Casona,Milpa Alta,"-99,02317811","19,19042684",Sí,No aplica,Adaptado,Equipamiento mínimo,No,No,No aplica,No
+POINT(-98.9966946 19.2695542),"Biblioteca ""José Martí""",Tláhuac,"-98,9966946","19,2695542",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,No,Sin información,No aplica,Sin información
+POINT(-99.16616227 19.44383699),FARO Cosmos,Miguel Hidalgo,"-99,16616227","19,44383699",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,No,No,No aplica,No
+POINT(-99.11855219 19.26332373),Cine Club Comunitario Madeja de Ideas,Itinerante,"-99,11855219","19,26332373",No aplica,Comunitario,Adaptado,Equipamiento mínimo,No,No,No aplica,No
+POINT(-99.2115325 19.4969147),Centro Cultural Xitle ,Azcapotzalco,"-99,2115325","19,4969147",Sí,Rentado,Adaptado,Equipamiento mínimo,No,No,No aplica,No
+POINT(-99.06069567 19.33834965),Cine sillita en Centauro del Norte,Iztapalapa,"-99,06069567","19,33834965",Sí,Comunitario,Adaptado,Equipamiento mínimo,No,No,No aplica,Sí
+POINT(-99.07845019 19.24836347),Cinema Axólotl,Xochimilco,"-99,07845019","19,24836347",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,No,No,No aplica,No
+POINT(-99.10079319 19.35961915),Cine club de la Casa de Cultura Guillermo Bonfil Batalla ,Iztapalapa,"-99,10078246","19,35958878",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,Sí ,No,No aplica,No
+POINT(-99.13888402 19.40065097),La Sobremesa Cineclub,Benito Juárez,"-99,13888402","19,40065097",Sí,Rentado,Adaptado,Equipamiento mínimo,No,No,No aplica,Sí
+POINT(-99.19423056 19.28682403),Centro Cultural  y Laboratorio ,Tlalpan,"-99,19423056","19,28682403",Sí,Prestado,Adaptado,Equipamiento mínimo,No,No,No aplica,No
+POINT(-99.13389665 19.3993792),Centro cultural Foro la Cura,Iztacalco,"-99,13389665","19,3993792",Sí,Privado,Adaptado,Equipamiento mínimo,No,No,No aplica,No
+POINT(-99.06405155 19.34535447),Cineclub Cinema 1917,Iztapalapa,"-99,06405155","19,34535447",Sí,Privado,Adaptado,Equipamiento mínimo,No,No,No aplica,Sí
+POINT(-99.14357886 19.32341572),Cinema Volcán,Tlalpan,"-99,14397142","19,32340824",Sí,Privado,Sin información,Equipamiento mínimo,No,No,No aplica,No
+POINT(-99.02243381 19.29919389),Espacio de Proyección Underground Paradise,Tláhuac,"-99,02243381","19,30582779",Sí,Propio,Adaptado,Equipamiento mínimo,No,Sin información,No aplica,Sin información
+POINT(-99.17587773 19.41315626),Cineclub Cenit ,Itinerante,"-99,17587773","19,41315626",No aplica,Prestado,Adaptado,Equipamiento mínimo,No,No,No aplica,No
+POINT(-99.1807662 19.3408218),Cineclub El Cuarto Amarillo Altillo Universidad,Coyoacán,"-99,1807662","19,3408218",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,No,Sin información,No aplica,Sin información
+POINT(-99.1692499031617 19.2889612884501),Obra Publika,Itinerante,"-99,1692499","19,28896129",No,Comunitario,Adaptado,Equipamiento mínimo,No,No,No aplica,No
+POINT(-99.12780576 19.24800501),Conjunto Cultural Tepalcatlalpan,Xochimilco,"-99,12780576","19,24800501",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,No,No,No aplica,Sí
+POINT(-99.23443188 19.30481768),"Cine Club ""El Águila""",Magdalena Contreras,"-99,23443188","19,30481768",Sí,No aplica,Sala de Cine,Equipamiento mínimo,No,Sin información,No aplica,Sin información
+POINT(-99.03668032 19.30053907),Centro Cultural Zapotitlán,Tláhuac,"-99,03668032","19,30053907",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,No,Sin información,No aplica,Sí
+POINT(-99.19841735 19.33922107),"IEMS GAM 2 ""Salvador Allende""",Gustavo A. Madero,"-99,1046667","19,4838397",No,Sin información,Adaptado,Equipamiento mínimo,No,No,No aplica,No
+POINT(-99.16360556 19.23537812),Cine Club Xicalco,Itinerante,"-99,16360556","19,23537812",No,Comunitario,Adaptado,Equipamiento mínimo,No,No,No aplica,No
+POINT(-99.14706239 19.43770712),Museo del Pulque y las Pulquerías,Cuauhtémoc,"-99,14706239","19,43770712",Sí,Rentado,Adaptado,Equipamiento mínimo,No,No,No aplica,No
+POINT(-98.99931625 19.28510269),Los olvidados,Virtual,"-98,99931625","19,28510269",No,De dependencia pública,Adaptado,Equipamiento mínimo,No,Sin información,No aplica,Sin información
+POINT(-99.10578962 19.38622104),cineclub Infonavit Iztacalco ,Iztacalco,"-99,10578962","19,38622104",Sí,Comunitario,Adaptado,Equipamiento mínimo,No,No,No aplica,No
+POINT(-99.19548555 19.41038912),Cine sillita en el Pabellón,Miguel Hidalgo,"-99,19548555","19,41038912",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,No,No,No aplica,Sí
+POINT(-99.1964293 19.42942869),Cine Club Mandela,Miguel Hidalgo,"-99,1964293","19,42942869",Sí,No aplica,Sin información,Equipamiento mínimo,No,Sin información,No aplica,Sin información
+POINT(-99.18641785 19.45905362),Cineclub del barrio,Miguel Hidalgo,"-99,18641785","19,45905362",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,No,No,No aplica,No
+POINT(-99.01895065 19.19366747),"Cineclub Rosario Castellanos, sede Milpa Alta",Milpa Alta,"-99,01895065","19,19366747",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,No,No,No aplica,No
+POINT(-99.2038957 19.45010333),Cinema Paradiso Univi (Universidad de Vida para Personas Mayores),Miguel Hidalgo,"-99,2038957","19,45010333",Sí,Sin información,Adaptado,Equipamiento mínimo,Sí ,Sin información,Sin información,Sin información
+POINT(-99.1639295 19.4181733),We Are Todos,Cuauhtémoc,"-99,1639295","19,4181733",Sí,Sin información,Adaptado,Equipamiento mínimo,Sin información,Sin información,Sin información,Sin información
+POINT(-99.15501758 19.42331591),Cine Club Itinerante JADEvolucion-arte,Itinerante,"-99,15501758","19,42331591",Sí,No aplica,Adaptado,Equipamiento mínimo,Sí ,Sin información,Sin información,Sin información
+POINT(-99.05672591 19.32381602),Cine Club CODECO Chavos Banda,Iztapalapa,"-99,05672591","19,32381602",Sí,Sin información,Adaptado,Equipamiento mínimo,Sí ,Sin información,Sin información,Sí
+POINT(-99.0675497 19.2920381),Parque Tematico Cananea,Iztapalapa,"-99,0675497","19,2920381",Sí,Sin información,Adaptado,Equipamiento mínimo,Sin información,Sin información,Sin información,Sin información
+POINT(-98.99316352 19.21845994),Cine Club Comunitario Metzli,Milpa Alta,"-98,99316352","19,21845994",Sí,Sin información,Adaptado,Equipamiento mínimo,Sí ,Sin información,Sin información,Sin información
+POINT(-99.24119034 19.30492816),Cine Comunitario ,Iztapalapa,"-99,24119034","19,30492816",Sí,De dependencia pública,Adaptado,Equipamiento mínimo,Sí ,Sin información,Sin información,Sin información
+POINT(-99.1597711 19.41622477),Estudiantes de Psicología (Universidad de Londres),Cuauhtémoc,"-99,1597711","19,41622477",Sí,Privado,Sala de cine,Equipamiento mínimo,Sin información,Sin información,Sin información,Sin información
+POINT(-99.09615302 19.27755815),Noctambulante,Xochimilco,"-99,09615302","19,27755815",Sí,Sin información,Adaptado,Equipamiento mínimo,Sin información,Sin información,Sin información,Sin información
+POINT(-99.16845 19.36994),El Hormiguero,Benito Juárez,"-99,16845","19,36994",Sí,Privado,Sala de proyecciones,Equipamiento adecuado,No,Sí,Otro,Sí
+POINT(-98.99683822 19.33528883),ENCUENTRO CINECLUB,Iztapalapa,"-98,99683822","19,33528883",Sí,Comunitario,Adaptado,Equipamiento adecuado,Sí ,Sí,Otro,No
+POINT(-99.16766684 19.26589968),Cine club El gato azul,Tlalpan,"-99,16766684","19,26589968",Sí,Comunitario,Adaptado,Equipamiento adecuado,No,Sí,Mixto,Sí
+POINT(-99.1283802391755 19.32950866321),FECIBA Festival de Cine de Barrio,Itinerante,"-99,12838024","19,32950866",No aplica,No aplica,No aplica,Equipamiento adecuado,Sí ,No,Digital,Sí
+POINT(-99.168233991622 19.4480885992037),"Cineclub BENM: Luz, Cámara, Educación",Miguel Hidalgo,"-99,16823399","19,4480886",Sí,De dependencia pública,Adaptado,Equipamiento adecuado,Sí ,No,Digital,No
+POINT(-99.1599294865078 19.3089609413453),Cineclub Rosario Castellanos Unidad Académica Coyoacán,Coyoacán,"-99,15992949","19,30896094",Sí,De dependencia pública,Adaptado,Equipamiento adecuado,Sí ,No,Digital,Sí
+POINT(-99.2576286609383 19.3096933407985),Cinema Rosario Castellanos Unidad Académica Magdalena Contreras,Magdalena Contreras,"-99,25762866","19,30969334",Sí,De dependencia pública,Adaptado,Equipamiento adecuado,Sí ,No,Digital,Sí
+POINT(-99.14256937 19.36426838),"Cineclub ""Cinema Verde""",Benito Juárez,"-99,14256937","19,36426838",No,De dependencia pública,Adaptado,Equipamiento adecuado,Sí ,No,Digital,No
+POINT(-99.1553297204578 19.4538535065555),Cinetrip Locatl,Cuauhtémoc,"-99,15532972","19,45385351",Sí,Comunitario,Adaptado,Equipamiento adecuado,No,Sí,Digital,No
+POINT(-99.11722219 19.48160173),La pulguita cinéfila (foro cultural),Gustavo A. Madero,"-99,11722219","19,48160173",Sí,Privado,Adaptado,Equipamiento adecuado,Sí ,Sí,Digital,No
+POINT(-99.1685893584079 19.4295619868217),Teatro Varsovia,Cuauhtémoc,"-99,16858936","19,42956199",Sí,Rentado,Sala de proyecciones,Equipamiento adecuado,Sí ,No,Digital,No
+POINT(-99.16974693 19.26817924),Cineclub Luciérnaga,Itinerante,"-99,16974693","19,26817924",No,Comunitario,Sin información,Equipamiento adecuado,Sí ,No,Físico,No
+POINT(-99.09323195 19.24155079),Cineclub Identidad,Xochimilco,"-99,09323195","19,24155079",Sí,Privado,Adaptado,Equipamiento adecuado,Sí ,No,Físico,Sí
+POINT(-99.08362245 19.35758026),Cinema 242,Iztapalapa,"-99,08362245","19,35758026",Sí,Rentado,Adaptado,Equipamiento adecuado,Sí ,Sí,Físico,No
+POINT(-99.20239461 19.40429699),Siervos de la Cultura:Cineclub,Azcapotzalco,"-99,2056112","19,4733689",Sí,De dependencia pública,Adaptado,Equipamiento adecuado,Sí ,Sí,Físico,No
+POINT(-99.15996112 19.45083035),Casa Gallina AC. ,Cuauhtémoc,"-99,15996112","19,45083035",Sí,Privado,Adaptado,Equipamiento adecuado,Sí ,No,Físico,No
+POINT(-99.0114648 19.25490168),Cine Tlacuache,Itinerante,"-99,0114648","19,25490168",Sí,De dependencia pública,Adaptado,Equipamiento adecuado,No,Sí,Físico,No
+POINT(-99.18577786 19.38798897),LA CALACA Espacio Cultural ,Benito Juárez,"-99,18577786","19,38798897",Sí,Rentado,Adaptado,Equipamiento adecuado,Sí ,Sí,Físico,Sí
+POINT(-99.07259119 19.36290591),Mamando el cine,Iztapalapa,"-99,07259119","19,36290591",Sí,De dependencia pública,Sala de proyecciones,Equipamiento adecuado,No,Sí,Físico,No
+POINT(-99.26273356 19.37081706),Cine Club Comunicación,Cuajimalpa,"-99,26273356","19,37081706",Sí,Propio,Sala de proyecciones,Equipamiento adecuado,Sí ,Sí,Físico,No
+POINT(-99.14033799 19.37481975),"La Grieta Cine (cineclub, laboratorio)",Benito Juárez,"-99,14033799","19,37481975",Sí,Rentado,Adaptado,Equipamiento adecuado,Sí ,No,Físico,No
+POINT(-99.10276226 19.30029553),Cine Club Audiencia Soñada,Coyoacán,"-99,10276226","19,30029553",Sí,Privado,Sala de proyecciones,Equipamiento adecuado,Sí ,Sí,Físico,Sí
+POINT(-99.0739954762806 19.3614116340819),CINETECA UAMI,Iztapalapa,"-99,07399548","19,36141163",Sí,Propio,Sala de proyecciones,Equipamiento adecuado,No,Sí,Físico,Sí
+POINT(-99.18210232 19.33581577),"Centro Universitario Cultural, A. C.",Coyoacán,"-99,18210232","19,33581577",Sí,Privado,Adaptado,Equipamiento adecuado,Sí ,No,Físico,Sí
+POINT(-99.14090185 19.36373532),Libreria Centro Cultural Pájaro de Calor,Benito Juárez,"-99,14090185","19,36373532",Sí,De dependencia pública,Sala de proyecciones,Equipamiento adecuado,Sí ,Sí,Físico,No
+POINT(-99.15043632 19.35078683),Cineclubes Foro arteria ,Tláhuac,"-99,04234546","19,29007494",Sí,Rentado,Adaptado,Equipamiento adecuado,Sí ,Sí,Físico,Sí
+POINT(-99.14628969 19.43702983),Centro cultural José Martí ,Cuauhtémoc,"-99,14628969","19,43702983",Sí,De dependencia pública,Sala de cine,Equipamiento adecuado,Sí ,No,Físico,Sí
+POINT(-99.25873956 19.3594425),Terminal Coyacán,Coyoacán,"-99,17278763","19,34805658",Sí,Privado,Sala de proyecciones,Equipamiento adecuado,No,Sí,Físico,No
+POINT(-99.16747712 19.28945204),CineClub Congreso 20,Tlalpan,"-99,16747712","19,28945204",Sí,De dependencia pública,Adaptado,Equipamiento adecuado,No,No,No aplica,No
+POINT(-99.03120898 19.19852509),Foro Cultural Calmecac,Milpa Alta,"-99,03120898","19,19852509",Sí,No aplica,Adaptado,Equipamiento adecuado,No,No,No aplica,No
+POINT(-99.15964845 19.36973708),Cine Móvil ToTo ,Itinerante,"-99,15964845","19,36973708",No,No aplica,Adaptado,Equipamiento adecuado,No,Sin información,No aplica,Sin información
+POINT(-99.1178247 19.46695569),Cineclub Torres del Parque ,Venustiano Carranza,"-99,11776346","19,45258661",No,Sin información,Sala de cine,Equipamiento adecuado,No,No,No aplica,Sí
+POINT(-99.11689632 19.48942569),Sala Tepecuicatl ,Gustavo A. Madero,"-99,11689632","19,48942569",Sí,De dependencia pública,Adaptado,Equipamiento adecuado,Sí ,No,No aplica,No
+POINT(-99.13082252 19.43392748),Casa de la Primera Imprenta de América ,Cuauhtémoc,"-99,13082252","19,43392748",Sí,De dependencia pública,Sala de proyecciones,Equipamiento adecuado,No,No,No aplica,Sí
+POINT(-99.05878958 19.30567031),"Cineclub ""Conejo en la Luna"" (Casa de cultura Los Olivos)",Tláhuac,"-99,05878958","19,30567031",Sí,De dependencia pública,Adaptado,Equipamiento adecuado,No,Sin información,No aplica,Sí
+POINT(-99.13402882 19.43906161),Centro Cultural del México Contemporáneo,Cuauhtémoc,"-99,13402882","19,43906161",Sí,De dependencia pública,Adaptado,Equipamiento adecuado,No,No,No aplica,No
+POINT(-99.1098384 19.39760763),Cineclub Jarillas,Iztacalco,"-99,1098384","19,39760763",Sí,Comunitario,Adaptado,Equipamiento adecuado,No,No,No aplica,No
+POINT(-99.01450183 19.29115791),Casa de Cultura Frida Kahlo,Coyoacán,"-99,01450183","19,29115791",Sí,De dependencia pública,Adaptado,Equipamiento adecuado,No,Sin información,No aplica,Sí
+POINT(-99.10951246 19.318648),CINECLUB CULHUACÁN,Coyoacán,"-99,10951246","19,318648",Sí,Comunitario,Adaptado,Equipamiento adecuado,No,No,No aplica,No
+POINT(-99.16332548 19.41780993),Rebelar,Cuauhtémoc,"-99,16332548","19,41780993",Sí,Recuperado,Adaptado,Equipamiento adecuado,No,Sin información,No aplica,Sin información
+POINT(-99.21014786 19.3322834),"Cineclub Unidad098, Universidad Pedagógica Nacional",Iztacalco,"-99,21014786","19,3322834",Sí,De dependencia pública,Adaptado,Equipamiento adecuado,No,No,No aplica,No
+POINT(-99.09599081 19.39490083),Sin elipsis,Itinerante,"-99,15157173","19,38434642",Sí,De dependencia pública,Auditorio,Equipamiento adecuado,No,Sin información,No aplica,Sin información
+POINT(-99.11743306 19.42796419),Cinequimera IEMS Preparatoria José Revueltas Sánchez,Venustiano Carranza,"-99,11743306","19,42796419",Sí,De dependencia pública,Adaptado,Equipamiento adecuado,No,No,No aplica,No
+POINT(-99.07035556 19.32731024),Módulo Bilbao #64,Iztapalapa,"-99,07035556","19,32731024",No,Comunitario,Adaptado,Equipamiento adecuado,No,No,No aplica,No
+POINT(-99.05288476 19.3738462),Cineclub CINEITIZ ,Iztapalapa,"-99,05288476","19,3738462",Sí,Privado,Adaptado,Equipamiento adecuado,No,No,No aplica,No
+POINT(-99.0539099 19.32761271),Biblioteca Consejo Agrarista,Iztapalapa,"-99,0539099","19,32761271",Sí,De dependencia pública,Adaptado,Equipamiento adecuado,No,No,No aplica,No
+POINT(-99.17278763 19.34805658),Tertulias cinematográficas (El 77 Centro Cultural Autogestivo),Cuauhtémoc,"-99,15417206","19,42886864",Sí,Privado,Adaptado,Equipamiento adecuado,No,No,No aplica,No
+POINT(-99.15417206 19.42886864),Tlalpan perisur Mexico,Tlalpan,"-99,15454072","19,2953584",Sí,Rentado ,Adaptado,Equipamiento adecuado,No,Sin información,No aplica,Sin información
+POINT(-99.18510474 19.37608181),Cineclub Mora (espacio de exhibición),Benito Juárez,"-99,18510474","19,37608181",Sí,De dependencia pública,Adaptado,Equipamiento adecuado,No,No,No aplica,Sí
+POINT(-99.2168835 19.2059986),Centro Comunitario Ahuayoto,Tlalpan,"-99,2168835","19,2059986",Sí,Sin información,Adaptado,Equipamiento adecuado,No,Sin información,No aplica,Sin información
+POINT(-99.14183543 19.44743181),Comuna Warrior,Cuauhtémoc,"-99,14183543","19,44743181",Sí,Comunitario,Adaptado,Equipamiento adecuado,No,No,No aplica,No
+POINT(-99.15456893 19.4363793),Cine Club Revolución ,Cuauhtémoc,"-99,15456893","19,4363793",Sí,Privado,Adaptado,Equipamiento adecuado,No,No,No aplica,Sí
+POINT(-99.16959942 19.45254118),"Cinema Rosario Castellanos, sede Casco",Miguel Hidalgo,"-99,16959942","19,45254118",Sí,De dependencia pública,Adaptado,Equipamiento adecuado,No,No,No aplica,No
+POINT(-99.2037306 19.43659222),Hacklab Feminista. La Chinampa.,Tláhuac,"-99,00745","19,2737371",Sí,Propio,Sala de cine,Equipamiento adecuado,No,No,No aplica,Sí
+POINT(-98.9942167 19.35209285),Cine sillita en la Colonia Miravalle,Iztapalapa,"-98,9942167","19,35209285",Sí,De dependencia pública,Sala de proyecciones,Equipamiento adecuado,No,No,No aplica,Sí
+POINT(-99.06827406 19.33386181),Cineclub del Centro de las Artes de Iztapalapa SEMILLERO DE TALENTOS,Iztapalapa,"-99,06827406","19,33386181",Sí,De dependencia pública,Sala de proyecciones,Equipamiento adecuado,No,No,No aplica,No
+POINT(-99.28357965 19.32618417),Cineclub y Charla en Alianza Francesa Polanco,Cuauhtémoc,"-99,204977","19,437265",Sí,Prestado,Adaptado,Equipamiento adecuado,No,No,No aplica,No
+POINT(-99.15645705 19.37670701),Cineclub Xochiac,Álvaro Obregón,"-99,28357965","19,32618417",Sí,Propio,Sala de proyecciones,Equipamiento adecuado,No,No,No aplica,No
+POINT(-99.1290674 19.43550094),"Cinema Rosario Castellanos, sede Justo Sierra",Cuauhtémoc,"-99,1290674","19,43550094",Sí,De dependencia pública,Sala de proyecciones,Equipamiento adecuado,No,No,No aplica,No
+POINT(-99.17809244 19.3786261),Cineclub Audiovideorama Parque Hundido,Benito Juárez,"-99,17809244","19,3786261",Sí,De dependencia pública,Adaptado,Equipamiento adecuado,No,No,No aplica,Sí
+POINT(-99.13283831 19.54534099),Los carnales dos,Gustavo A. Madero,"-99,13283831","19,54534099",Sí,Propio,Adaptado,Equipamiento adecuado,Sí ,No,No aplica,No
+POINT(-99.06813462 19.33843095),Parque Agua de las lajas,Iztapalapa,"-99,06812389","19,33842083",Sí,Comunitario,Adaptado,Equipamiento adecuado,No,No,No aplica,No
+POINT(-99.1177736 19.43047343),Cineteca San Lázaro,Venustiano Carranza,"-99,12099945","19,41668809",Sí,De dependencia pública,Sala de proyecciones,Equipamiento adecuado,No,No,No aplica,Sí
+POINT(-99.00386248 19.26855973),Museo Regional Tláhuac,Tláhuac,"-99,00386248","19,26855973",Sí,De dependencia pública,Adaptado,Equipamiento adecuado,No,Sin información,No aplica,Sí
+POINT(-99.18944373 19.33747451),Cine club Conagua,Coyoacán,"-99,18944373","19,33747451",Sí,De dependencia pública,Adaptado,Equipamiento adecuado,No,No,No aplica,No
+POINT(-99.1407065 19.4335607),El Rule Centro de Saberes,Cuauhtémoc,"-99,1407065","19,4335607",Sí,De dependencia pública,Sala de proyecciones,Equipamiento adecuado,No,No,No aplica,No
+POINT(-99.00965259 19.19341855),Cineclub Contrapunto,Milpa Alta,"-99,00965259","19,19341855",Sí,Comunitario,Sala de proyecciones,Equipamiento adecuado,No,No,No aplica,Sí
+POINT(-99.15902157 19.41485549),Espacio de exhibición Orizaba 161,Cuauhtémoc,"-99,15902157","19,41485549",Sí,Prestado,Adaptado,Equipamiento adecuado,No,No,No aplica,No
+POINT(-99.13645989 19.42639966),Claustro de Sor Juana,Cuauhtémoc,"-99,13645989","19,42639966",Sin información,Privado,Sin información,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+POINT(-99.15281066 19.29246606),Cineclub INPRFM (Cineclub Voz Pro Salud Mental),Tlalpan,"-99,15281066","19,29246606",Sí,De dependencia pública,Sin información,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1384052 19.4276162),Fundación para Ancianos Concepción Beistegui,Cuauhtémoc,"-99,1384052","19,4276162",Sí,Privado,Adaptado,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+POINT(-99.16418488 19.42701282),Cineclub Tornasolados: los colores de la diversidad,Cuauhtémoc,"-99,16418488","19,42701282",Sí,Sin información,Adaptado,Equipamiento adecuado,Sí ,Sin información,Sin información,Sin información
+POINT(-99.17733 19.4100606),Prevenidos Culturales,Cuauhtémoc,"-99,17733","19,4100606",Sin información,De dependencia pública,Adaptado,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+POINT(-99.131881 19.4346038),Museo del Templo Mayor,Cuauhtémoc,"-99,131881","19,4346038",Sí,De dependencia pública,Auditorio,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1677896 19.2862316),Casa de la Cultura de la UAEM en Tlalpan,Tlalpan,"-99,1677896","19,2862316",Sí,De dependencia pública,Sin información,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+POINT(-99.159064 19.4145754),Casa Chicha,Cuauhtémoc,"-99,159064","19,4145754",Sí,Sin información,Adaptado,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+POINT(-98.96859735 19.30908772),Cine Club Santa (Centro Cultural Santa Catarina),Cuauhtémoc,"-98,96859735","19,30908772",Sí,De dependencia pública,Adaptado,Equipamiento adecuado,Sí ,Sin información,Sin información,Sin información
+POINT(-99.1258329 19.4061636),Cineclub Psicocinema,Venustiano Carranza,"-99,1258329","19,4061636",Sí,Sin información,Sala de cine,Equipamiento adecuado,Sí ,Sin información,Sin información,Sin información
+POINT(-99.13093811 19.26705745),Sanadoras,Itinerante,"-99,13093811","19,26705745",Sin información,Sin información,Adaptado,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1507955 19.447369),Biblioteca Vasconcelos,Cuauhtémoc,"-99,1507955","19,447369",Sin información,No aplica,Auditorio,Equipamiento adecuado,Sí ,Sin información,Sin información,Sin información
+POINT(-99.1516311 19.4728185),Foro Cultural Azcapotzalco,Azcapotzalco,"-99,1516311","19,4728185",Sí,No aplica,Adaptado,Equipamiento adecuado,Sí ,Sin información,Sin información,Sin información
+POINT(-99.124278 19.290778),Fuerza Colectiva Coapa (Unidad Habitacional Coapa),Itinerante,"-99,124278","19,290778",Sí,Comunitario,Adaptado,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+POINT(-99.19650548 19.33221916),Cine club Filosofía y Letras,Coyoacán,"-99,18697929","19,33487023",Sí,De dependencia pública,Sala de cine,Equipamiento adecuado,Sí ,Sin información,Sin información,Sin información
+POINT(-99.1375946 19.4308291),La Casa del Cine Mx,Cuauhtémoc,"-99,1375946","19,4308291",Sin información,Privado,Sala de cine,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1321411 19.4349858),Museo Archivo De la Fotografía,Cuauhtémoc,"-99,1321411","19,4349858",Sí,De dependencia pública,Adaptado,Equipamiento adecuado,Sin información,Sin información,Sin información,Sin información
+POINT(-99.19820257 19.4531819),CINE CON-SENTIDO,Miguel Hidalgo,"-99,19560738","19,44885775",Sí,No aplica,Sala de proyecciones,Equipamiento profesional,Sí ,Sí,Otro,Sí
+POINT(-99.16700392 19.28884039),MICAM,Virtual,"-99,16700392","19,28884039",No aplica,No aplica,No aplica,Equipamiento profesional,Sí ,No,Otro,No
+POINT(-99.1880212 19.2980103),Cine Villa  Olímpica,Tlalpan,"-99,1880212","19,2980103",Sí,De dependencia pública,Sala de cine,Equipamiento profesional,Sí ,Sin información,Mixto,Sí
+POINT(-99.1890988609373 19.3464805342371),Odisea Cinecafé,Álvaro Obregón,"-99,18909886","19,34648053",Sí,Rentado,Sala de proyecciones,Equipamiento profesional,Sí ,No,Digital,No
+POINT(-99.19114776 19.41586157),Cine Club del Semillero Creativo de Cinematografía en Los Pinos,Miguel Hidalgo,"-99,19114776","19,41586157",Sí,De dependencia pública,Sala de cine,Equipamiento profesional,No,Sí,Físico,No
+POINT(-99.10229162 19.30369682),Cine Foro UPAVIG,Coyoacán,"-99,10229162","19,30369682",Sí,Propio,Sala de proyecciones,Equipamiento profesional,No,Sí,Físico,Sí
+POINT(-99.24778772 19.48712142),Cinemacatlán,Itinerante,"-99,24778772","19,48712142",Sí,De dependencia pública,Sala de proyecciones,Equipamiento profesional,Sí ,No,Físico,Sí
+POINT(-99.04234546 19.29007494),Cinefilia Amerike ,Benito Juárez,"-99,15645705","19,37670701",Sí,Privado,Sala de proyecciones,Equipamiento profesional,Sí ,Sí,Físico,Sí
+POINT(-99.13744685 19.43750695),Salón Rojo Cineclub,Cuauhtémoc,"-99,13744685","19,43750695",Sí,Prestado,Adaptado,Equipamiento profesional,Sí ,Sí,Físico,Sí
+POINT(-99.19249849 19.33999285),"Cinemanía, espacio de exhibición",Álvaro Obregón,"-99,19249849","19,33999285",Sí,Rentado,Sala de proyecciones,Equipamiento profesional,Sí ,No,Físico,No
+POINT(-99.16124652 19.36447828),Cineclub CT6,Benito Juárez,"-99,16124652","19,36447828",Sí,Comunitario,Sala de proyecciones,Equipamiento profesional,No,No,No aplica,No
+POINT(-99.1759269 19.4228005),Sala de Cine Más Allá (CENTRO DE CULTURA DIGITAL),Cuauhtémoc,"-99,17571397","19,42311464",Sí,De dependencia pública,Sala de cine,Equipamiento profesional,No,Sin información,No aplica,Sin información
+POINT(-99.14990182 19.42933388),Foro Polivalente Antonieta Rivas Mercado-Biblioteca de México,Cuauhtémoc,"-99,14990182","19,42933388",Sí,Propio,Sala de proyecciones,Equipamiento profesional,No,No,No aplica,No
+POINT(-99.18646147 19.33324373),Tecnológico de Monterrey Campus Santa Fe,Cuajimalpa,"-99,25838163","19,35982202",Sí,De dependencia pública,Sala de proyecciones,Equipamiento profesional,No,No,No aplica,No
+POINT(-98.99523363 19.22146943),FARO Tecómitl,Milpa Alta,"-98,99523363","19,22146943",Sí,Propio,Sala de Cine,Equipamiento profesional,No,No,No aplica,Sí
+POINT(-99.05716048 19.36256215),Complejo cultural Barco Utopía ,Iztapalapa,"-99,05716048","19,36256215",Sí,De dependencia pública,Adaptado,Equipamiento profesional,No,No,No aplica,No
+POINT(-99.24298381 19.48240033),Cineclub Cinema Acatlán,Naucalpan,"-99,24644373","19,48437669",Sí,De dependencia pública,Sala de proyecciones,Equipamiento profesional,No,No,No aplica,Sí
+POINT(-99.06574355 19.34667544),Museo YANCUIC,Iztapalapa,"-99,06574355","19,34667544",Sí,De dependencia pública,Sala de proyecciones,Equipamiento profesional,No,No,No aplica,No
+POINT(-99.1716566 19.4092044),Casa Refugio Citlatépetl,Cuauhtémoc,"-99,1716566","19,4092044",Sin información,Sin información,Adaptado,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1567171 19.441993),Cinematógrafo del Museo Universitario del Chopo ,Cuauhtémoc,"-99,1567171","19,441993",Sí,De dependencia pública,Sala de cine,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.10237453 19.30349168),Cineclub Sin Límites UAM-X (Comunicación),Coyoacán,"-99,10237453","19,30349168",Sí,De dependencia pública,Auditorio,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1913236 19.4327609),Centro Cultural Brasil en México,Miguel Hidalgo,"-99,1913236","19,4327609",Sí,Organismo internacional,Adaptado,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1911962 19.43273179),CineClubA7,Coyoacán,"-99,15043632","19,35078683",Sí,Organismo internacional,Auditorio,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1586304 19.348587),Centro Cultural Elena Garro,Coyoacán,"-99,1586304","19,348587",Sí,De dependencia pública,Auditorio,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1632011 19.4197271),Granada Semillero de Arte,Miguel Hidalgo,"-99,19020551","19,43923535",Sí,Organismo internacional,Auditorio,Equipamiento profesional,Sí ,Sin información,Sin información,Sin información
+POINT(-99.17759669 19.4073928),Cine Lido,Cuauhtémoc,"-99,17759669","19,4073928",Sí,Sin información,Sala de cine,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1604878 19.40896095),Cine Tonalá,Cuauhtémoc,"-99,1604878","19,40896095",Sí,Propio,Adaptado,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-98.9952483 19.22133218),Cine Club Olla de Piedra,Milpa Alta,"-98,9952483","19,22133218",Sí,No aplica,Adaptado,Equipamiento profesional,Sí ,Sin información,Sin información,Sin información
+POINT(-99.1650577 19.3707094),Sala de cine metro Zapata,Benito Juárez,"-99,1650577","19,3707094",Sí,De dependencia pública,Adaptado,Equipamiento profesional,Sin información,Sin información,Sin información,Sí
+POINT(-99.13597525 19.43645384),Casa Manu Centro Humanista,Cuauhtémoc,"-99,13597525","19,43645384",Sí,Sin información,Adaptado,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1422655 19.3562773),Sala Luis Buñuel. CCC,Coyoacán,"-99,1422655","19,3562773",Sí,No aplica,Sala de cine,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.16477266 19.41074032),Facultad de Cine,Cuauhtémoc,"-99,16477266","19,41074032",Sin información,Privado,Adaptado,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1661354 19.39831052),Radio Cinema de Radio UNAM,Benito Juárez,"-99,1661354","19,39831052",Sí,De dependencia pública,Sala de Cine,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1333353 19.49307055),Futurama,Gustavo A. Madero,"-99,1333353","19,49307055",Sí,De dependencia pública,Sala de cine,Equipamiento profesional,Sin información,Sin información,Sin información,Sin información
+POINT(-99.09175682 19.46095452),FARO Aragón ,Gustavo A. Madero,"-99,09175682","19,46095452",Plataforma digital,De dependencia pública,Otro,Equipamiento insuficiente,No,No,Otro,Sí
+POINT(-99.15836365 19.41182236),Ovnibus,Cuauhtémoc,"-99,15836365","19,41182236",Sí,Comunitario,Adaptado,Equipamiento insuficiente,Sí ,Sí,Otro,No
+POINT(-99.00745 19.2737371),Hierofante Café,Benito Juárez,"-99,13924915","19,40070333",Sí,Privado,Adaptado,Equipamiento insuficiente,Sí ,Sin información,Digital,Sin información
+POINT(-99.13125738 19.43259685),Cineclub Ellas Dirigen,Itinerante,"-99,13125738","19,43259685",Plataforma digital,No aplica,Otro,Equipamiento insuficiente,Sí ,No,Digital,Sí
+POINT(-99.1862279 19.34839),Alianza francesa - San Ángel,Álvaro Obregón,"-99,1862279","19,34839",Sí,Sin información,Sala de cine,Equipamiento insuficiente,Sí ,Sin información,Digital,Sin información
+POINT(-99.0207657 19.29514506),Viendo LA VIDA CON ALEGRIA,Virtual,"-99,0207657","19,29514506",No aplica,No aplica,No aplica,Equipamiento insuficiente,Sí ,No,Digital,No
+POINT(-99.18441569 19.40336877),Cineclub Micelio,Cuauhtémoc,"-99,18428669","19,40358895",Sí,Prestado,Adaptado,Equipamiento insuficiente,Sí ,No,Digital,Sí
+POINT(-99.11951131 19.37185175),Casa de Cultura El Sifón,Iztapalapa,"-99,11951131","19,37185175",Sí,Comunitario,Adaptado,Equipamiento insuficiente,Sí ,No,Digital,No
+POINT(-99.1013282 19.48731481),CERES-CINE CLUB ,Gustavo A. Madero,"-99,1013282","19,48731481",Sí,Comunitario,Adaptado,Equipamiento insuficiente,Sí ,Sí,Físico,Sí
+POINT(-99.15077458 19.46501875),COPILLI PROYECTA,Cuauhtémoc,"-99,14987175","19,44514725",Sí,Rentado,Adaptado,Equipamiento insuficiente,No,Sí,Físico,No
+POINT(-99.1801284 19.41437288),Cineclub SAE Institute México,Cuauhtémoc,"-99,1801284","19,41437288",Sí,Privado,Adaptado,Equipamiento insuficiente,No,Sí,Físico,No
+POINT(-99.15226996 19.55196811),Entre libros,Gustavo A. Madero,"-99,15226996","19,55196811",Sí,De dependencia pública,Adaptado,Equipamiento insuficiente,No,No,No aplica,Sí
+POINT(-99.06959385 19.35432882),Cineclub Tóxico,Virtual,"-99,06959385","19,35432882",Plataforma digital,No aplica,Otro,Equipamiento insuficiente,No,No,No aplica,No
+POINT(-99.15986228 19.30896816),Contraturno,Coyoacán,"-99,15986228","19,30896816",Sí,De dependencia pública,Adaptado,Equipamiento insuficiente,No,No,No aplica,No
+POINT(-99.18783649 19.39518118),Proyecto Narud,Benito Juárez,"-99,18783649","19,39518118",Sí,Comunitario,No aplica,Equipamiento insuficiente,No,No,No aplica,No
+POINT(-99.1846849 19.3783738),Los Cronopios sin fama,Benito Juárez,"-99,1846849","19,3783738",Sí,Prestado,Adaptado,Equipamiento insuficiente,No,Sin información,No aplica,Sin información
+POINT(-99.1448287 19.4229482),Teatro Estefanía Chávez Barragán,Coyoacán,"-99,18646147","19,33324373",Sí,Sin información,Adaptado,Equipamiento insuficiente,No,Sin información,No aplica,Sin información
+POINT(-99.14386054 19.4298562),Artesanas Colectiva (Punto Gozadera),Cuauhtémoc,"-99,14386054","19,4298562",Sí,Sin información,Adaptado,Equipamiento insuficiente,No,Sin información,No aplica,Sin información
+POINT(-99.1148506 19.3938582),"Casa de Cultura ""Centro de Artes y Oficios""",Iztacalco,"-99,1148506","19,3938582",Sí,De dependencia pública,Adaptado,Equipamiento insuficiente,No,Sin información,No aplica,Sin información
+POINT(-99.17102649 19.30926987),Cine Club Villa Panamericana,Coyoacán,"-99,17102649","19,30926987",Sí,Comunitario,Adaptado,Equipamiento insuficiente,No,No,No aplica,No
+POINT(-99.13664248 19.45100964),Cineclub Lafragua,Cuauhtémoc,"-99,13664248","19,45100964",Sí,De dependencia pública,Adaptado,Equipamiento insuficiente,No,No,No aplica,No
+POINT(-99.18890726 19.38359835),Laboratorio por los derechos culturales MH,Itinerante,"-99,19145146","19,40800884",No,No aplica,No aplica,Equipamiento insuficiente,No ,No ,No aplica,No
+POINT(-99.14200786 19.44752975),Comunidad nueva ,Cuauhtémoc,"-99,14200786","19,44752975",Sí,Comunitario,Adaptado,Equipamiento insuficiente,No,No,No aplica,Sí
+POINT(-99.07347655 19.35664515),Cine Club Casa de las Bombas ,Iztapalapa,"-99,07347655","19,35664515",Sí,De dependencia pública,Adaptado,Equipamiento insuficiente,No,No,No aplica,No
+POINT(-99.00545091 19.27425042),Cineclub Cotidiano Crew,Virtual,"-99,00545091","19,27425042",No aplica,No aplica,No aplica,Equipamiento insuficiente,No,No,No aplica,No
+POINT(-99.15925285 19.41139788),Rizomáticos del 7mo arte: Cine de Micelios,Cuauhtémoc,"-99,15925285","19,41139788",Sí,Comunitario,Adaptado,Equipamiento insuficiente,No,No,No aplica,Sí
+POINT(-99.17368903 19.26993962),Velaria,Tlalpan,"-99,17368903","19,26993962",Sí,Comunitario,Otro,Equipamiento insuficiente,No,No,No aplica,No
+POINT(-99.1342656 19.4013943),Semillitas de Colores ( Casa del Éxodo),Magdalena Contreras,"-99,24546478","19,27084188",Sí,De dependencia pública,Adaptado,Equipamiento insuficiente,No,Sin información,No aplica,Sin información
+POINT(-99.19344463 19.48468983),Biblioteca Vigil,Azcapotzalco,"-99,19344463","19,48468983",Sí,De dependencia pública,Adaptado,Equipamiento insuficiente,No,No,No aplica,No
+POINT(-99.18989005 19.38593925),Cinema Pirámide ,Benito Juárez,"-99,18989005","19,38593925",Sí,De dependencia pública,Adaptado,Equipamiento insuficiente,No,No,No aplica,No
+POINT(-99.04774568 19.25808315),Casa ciclista Xochimilco ,Xochimilco,"-99,04774568","19,25808315",Sí,Privado,Adaptado,Equipamiento insuficiente,No,No,No aplica,No
+POINT(-99.16204951 19.50453384),Un paseo por los libros A.C. (espacio de exhibición),Cuauhtémoc,"-99,13321443","19,426436",Sí,Comunitario,Adaptado,Equipamiento insuficiente,No,No,No aplica,No
+POINT(-99.05576468 19.25577417),Casa de cultura A la orilla del agua,Xochimilco,"-99,05576468","19,25577417",Sí,De dependencia pública,Adaptado,Equipamiento insuficiente,No,No,No aplica,No
+POINT(-99.28229392 19.35278391),Cineclub de la División de Ciencias de la Comunicación y Diseño UAM Cuajimalpa,Cuajimalpa,"-99,28229392","19,35278391",Sí,De dependencia pública,Adaptado,Equipamiento insuficiente,No,Sin información,No aplica,Sin información
+POINT(-99.16090701 19.4121548),Cine Debate at Poch@ House,Cuauhtémoc,"-99,16090701","19,4121548",Sí,Propio,Adaptado,Equipamiento insuficiente,No,Sin información,No aplica,Sin información
+POINT(-99.1114397 19.5032576),Cine club FIV (Faro Indios Verdes),Gustavo A. Madero,"-99,1114397","19,5032576",Sí,De dependencia pública,Adaptado,Equipamiento insuficiente,No,No,No aplica,Sí
+POINT(-99.15962152 19.35790736),kinotecnia Cineclub,Cuauhtémoc,"-99,15007034","19,43840272",Sí,Privado,Adaptado,Equipamiento insuficiente,No,No,No aplica,No
+POINT(-99.14213589 19.33902437),Foro Cultural el Caracol ,Coyoacán,"-99,14213589","19,33902437",Sí,Comunitario,Adaptado,Equipamiento insuficiente,No,No,No aplica,No
+POINT(-99.08081031 19.30013794),Fotogramas Coffea,Iztapalapa,"-99,08081031","19,30013794",Sí,Prestado,Adaptado,Equipamiento insuficiente,No,No,No aplica,No
+POINT(-99.15454072 19.2953584),TODOS SOMOS OTROS FESTIVAL INTERNACIONAL TODOS SOMOS OTROS,Itinerante,"-99,16058872","19,40543023",Sí,De dependencia pública,Adaptado,Equipamiento insuficiente,No,No,No aplica,No
+POINT(-99.30755079 19.35560801),"""KILITA RESISTENCIA"" taller/centro cultural ",Cuajimalpa,"-99,30755079","19,35560801",Sí,Privado,Adaptado,Equipamiento insuficiente,No,No,No aplica,No
+POINT(-99.19020551 19.43923535),Grand Ciné - Alianza Francesa Ciudad de México,Miguel Hidalgo,"-99,2037306","19,43659222",Sí,Prestado,Adaptado,Equipamiento insuficiente,No,No,No aplica,No
+POINT(-99.13924915 19.40070333),Í caro Espacio,Álvaro Obregón,"-99,19841735","19,33922107",Sí,Rentado,Adaptado,Equipamiento insuficiente,No,No,No aplica,Sí
+POINT(-99.13486815 19.48794494),Cineclub TAC toma de acción comunitaria,Itinerante,"-99,13486815","19,48794494",Sí,Privado,Adaptado,Equipamiento insuficiente,No,No,No aplica,Sí
+POINT(-99.1647339 19.3606529),Cineclub Cineteca 43,Virtual,"-99,16452889","19,36091566",Sí,No aplica,Adaptado,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+POINT(-99.18121799 19.40339697),Cine club Elena Poniatowska,Miguel Hidalgo,"-99,18121799","19,40339697",Sí,Sin información,Adaptado,Equipamiento insuficiente,Sí ,Sin información,Sin información,Sin información
+POINT(-99.1428912 19.4381352),Cine La Nana,Cuauhtémoc,"-99,1428912","19,4381352",Sí,Comodato,Adaptado,Equipamiento insuficiente,Sí ,Sin información,Sin información,Sin información
+POINT(-99.15480722 19.39689751),Ciclos de cine de Chapata Vive Café,Benito Juárez,"-99,15480722","19,39689751",Sí,Rentado ,Adaptado,Equipamiento insuficiente,Sí ,Sin información,Sin información,Sin información
+POINT(-99.18979027 19.34534851),Cine Club El Carmen en Familia ,Álvaro Obregón,"-99,18979027","19,34534851",Sí,No aplica,Auditorio,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1313185 19.4519111),Ciclo de cine en el Museo Indígena del INPI,Cuauhtémoc,"-99,1313185","19,4519111",Sí,De dependencia pública,Auditorio,Equipamiento insuficiente,Sí ,Sin información,Sin información,Sin información
+POINT(-99.1696633 19.4608844),Parque de Bolsillo Nueva Santa María,Azcapotzalco,"-99,1696633","19,4608844",Sí,No aplica,Adaptado,Equipamiento insuficiente,Sí ,Sin información,Sin información,Sin información
+POINT(-99.26444158 19.37113118),Cineclub Comunicación IBERO,Álvaro Obregón,"-99,26271746","19,37094866",Sí,No aplica,Sala de cine,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1471287 19.4339618),Cinestésica,Cuauhtémoc,"-99,1471287","19,4339618",Sí,Sin información,Auditorio,Equipamiento insuficiente,Sí ,Sin información,Sin información,Sin información
+POINT(-99.120959 19.3034547),Dandole vuelo a la hilacha,Coyoacán,"-99,120959","19,3034547",Sí,No aplica,Auditorio,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+POINT(-99.08984961 19.3604991),Cinema Atlalilco,Itinerante,"-99,08984961","19,3604991",No,Sin información,Adaptado,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1458963 19.4424262),Campamentos Unidos,Cuauhtémoc,"-99,1458963","19,4424262",Sí,Sin información,Adaptado,Equipamiento insuficiente,Sí ,Sin información,Sin información,Sin información
+POINT(-99.1653135 19.349377),Cinefilias,Coyoacán,"-99,1653135","19,349377",Sin información,Sin información,Sin información,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+POINT(-99.17323108 19.26768663),Ciberescuela San Pedro Mártir,Tlalpan,"-99,17323108","19,26768663",Sí,Sin información,Adaptado,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+POINT(-99.13903848 19.45136006),Cine club Bravo,Itinerante,"-99,16455572","19,36076381",Sin información,Sin información,Sin información,Equipamiento insuficiente,Sí ,Sí,Sin información,Sin información
+POINT(-99.1030546 19.44576011),Colectivo Cultural Semilleros,Venustiano Carranza,"-99,1030546","19,44576011",Sin información,Sin información,Adaptado,Equipamiento insuficiente,Sí ,Sin información,Sin información,Sin información
+POINT(-99.05771385 19.44812646),Cinema Vagabunda,Gustavo A. Madero,"-99,05771385","19,44812646",Sí,De dependencia pública,Adaptado,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+POINT(-99.17703203 19.41164372),Necios Bar ,Cuauhtémoc,"-99,17703203","19,41164372",Sí,Sin información,Adaptado,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sin información
+POINT(-99.1330071 19.4352452),Centro Cultural de España en México,Cuauhtémoc,"-99,1330071","19,4352452",Sí,Organismo internacional,Adaptado,Equipamiento insuficiente,Sí ,Sin información,Sin información,Sin información
+POINT(-99.23637016 19.27405235),Colectivo Productora Calles,Itinerante,"-99,13336585","19,44109886",No,Sin información,Adaptado,Equipamiento insuficiente,Sin información,Sin información,Sin información,Sí
+POINT(-99.16234053 19.41179928),"Festival Internacional de Cine y Comedia, 24Risas por Segundo.",Itinerante,"-99,15885626","19,37246204",No,Prestado,No aplica,No se cuenta con equipamiento,Sí ,Sin información,Sin información,Sin información
